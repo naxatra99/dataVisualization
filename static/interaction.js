@@ -6,7 +6,7 @@ var vis = d3.select("#paraSet").append("svg")
 .attr("width", chart.width())
 .attr("height", chart.height());
 
-d3.csv("/static/df_arabica_clean.csv", function(error, data){
+d3.csv("/static/coffee_data_final.csv", function(error, data){
     // console.log(data);
     vis.datum(data).call(chart);
 })
@@ -35,7 +35,7 @@ var svg = d3.select("#paraCoord")
 .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
     
-d3.csv("/static/df_arabica_clean.csv", function(error, coffee) {
+d3.csv("/static/coffee_data_final.csv", function(error, coffee) {
 
   // Extract the list of dimensions and create a scale for each.
   var excludeColumn = ["", "Country of Origin", "Altitude", "Grading Date", "Variety", "Processing Method", "Color", "Expiration", "Defects", "Total Cup Points", "Moisture Percentage", "Category One Defects", "Quakers", "Category Two Defects", "Clean Cup", "Sweetness"];

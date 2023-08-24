@@ -5,7 +5,7 @@ var vis = d3.select("#paraSet").append("svg")
 .attr("width", chart.width())
 .attr("height", chart.height());
 
-d3.csv("/static/all_coffee_categorical_data.csv", function(error, data){
+d3.csv("/static/all_coffee_categorical_data_cleaned.csv", function(error, data){
     // console.log(data);
     vis.datum(data).call(chart);
 })

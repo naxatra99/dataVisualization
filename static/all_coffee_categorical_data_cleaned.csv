@@ -1,0 +1,105 @@
+ID,Country of Origin,Variety,Processing Method,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Overall,Color,Aroma_Category,Flavor_Category,Aftertaste_Category,Acidity_Category,Body_Category,Overall_Category
+1,Colombia,Castillo,Double Anaerobic Washed,8.58,8.5,8.42,8.58,8.25,8.42,8.58,green,Best,Best,Best,Best,Best,Best
+2,Laos,Java,Semi Washed,8.33,8.42,8.08,8.17,7.92,8.17,8.33,yellowish,Best,Best,Best,Best,Best,Best
+3,Colombia,Red Bourbon,"Honey,Mossto",8.33,8.33,8.08,8.25,7.92,7.92,8.25,yellow-green,Best,Best,Best,Best,Best,Best
+4,Taiwan,Gesha,Washed / Wet,8.33,8.17,8.08,8,7.83,8.25,8.25,green,Best,Best,Best,Best,Best,Best
+5,Taiwan,SL34,Washed / Wet,8.08,8.08,8.25,8.08,7.92,8,8.25,greenish,Best,Best,Best,Best,Best,Best
+6,Ethiopia,Ethiopian Heirlooms,Natural / Dry,8.08,8.25,8,8.08,7.92,7.92,8,greenish,Best,Best,Best,Best,Best,Best
+7,Taiwan,Gesha,Washed / Wet,8.08,8,8.08,8.08,8,8,8,green,Best,Best,Best,Best,Best,Best
+8,Colombia,Caturra,Washed / Wet,8.08,8,8.08,7.92,8.08,8,8,green,Best,Best,Best,Best,Best,Best
+9,Ethiopia,"Wolishalo,Kurume,Dega",Washed / Wet,8.17,8.08,7.92,8.17,7.75,7.92,8.08,green,Best,Best,Best,Best,Good,Best
+10,Taiwan,Gesha,Natural / Dry,8.08,8.17,7.75,7.92,7.83,8,8.17,brownish,Best,Best,Best,Best,Best,Best
+11,Guatemala,Gesha,Natural / Dry,8,7.92,8.08,7.92,7.75,8,8.08,yellowish,Best,Good,Best,Best,Good,Best
+12,Thailand,Catimor,Pulped natural / honey,7.67,8,7.83,8,8.08,8,8.08,browish-green,Good,Best,Best,Best,Best,Best
+13,Taiwan,SL34,Washed / Wet,7.83,8,7.92,8,8,7.92,7.92,bluish-green,Good,Best,Best,Best,Best,Best
+14,Taiwan,Gesha,Natural / Dry,7.92,7.92,8,7.92,7.83,7.92,8,green,Best,Good,Best,Best,Best,Best
+15,Taiwan,Gesha,Natural / Dry,8,8,8,7.92,7.75,7.92,7.92,blue-green,Best,Best,Best,Best,Good,Best
+16,Taiwan,Typica,Washed / Wet,8,8,7.83,7.83,7.75,7.92,8.08,bluish-green,Best,Best,Best,Good,Good,Best
+17,Taiwan,Gesha,Washed / Wet,8.08,8.17,7.67,7.83,7.67,7.92,8,green,Best,Best,Good,Good,Good,Best
+18,Ethiopia,Ethiopian Heirlooms,Natural / Dry,8,8.08,8,8,7.67,7.75,7.83,yellow green,Best,Best,Best,Best,Good,Good
+19,Taiwan,Gesha,Washed / Wet,8,7.92,7.83,7.92,7.83,7.83,7.92,bluish-green,Best,Good,Best,Best,Best,Best
+20,Kenya,SL28,Washed / Wet,8.17,7.75,7.83,7.58,7.92,8,8,greenish,Best,Good,Best,Ok,Best,Best
+21,Taiwan,Typica,Natural / Dry,8,7.92,7.83,7.92,7.75,7.75,7.92,brownish,Best,Good,Best,Best,Good,Best
+22,Taiwan,Gesha,Washed / Wet,8,7.92,7.67,8,7.75,7.83,7.92,pale yellow,Best,Good,Good,Best,Good,Best
+23,Taiwan,Typica,,7.92,8,7.92,8,7.58,7.75,7.83,green,Best,Best,Best,Best,Ok,Good
+24,Guatemala,Caturra,Washed / Wet,7.67,8.08,7.67,8,7.92,7.83,7.83,green,Good,Best,Good,Best,Best,Good
+25,Guatemala,Caturra,Washed / Wet,7.83,7.92,7.75,8,7.75,7.75,7.92,green,Good,Good,Best,Best,Good,Best
+26,Taiwan,Yellow Bourbon,Natural / Dry,8,8,7.75,7.75,7.67,7.75,7.92,brownish,Best,Best,Best,Good,Good,Best
+27,Peru,Gesha,Washed / Wet,8,8,7.83,7.83,7.58,7.83,7.75,greenish,Best,Best,Best,Good,Ok,Good
+28,Taiwan,SL34,Natural / Dry,7.83,7.83,7.67,7.67,7.83,8,8,greenish,Good,Good,Good,Good,Best,Best
+29,Brazil,Yellow Bourbon,Double Carbonic Maceration / Natural,7.83,7.92,7.75,7.92,7.67,7.83,7.83,green,Good,Good,Best,Best,Good,Good
+30,Taiwan,Yellow Bourbon,Pulped natural / honey,7.92,8.08,7.67,7.92,7.67,7.75,7.75,blue-green,Best,Best,Good,Best,Good,Good
+31,Guatemala,Bourbon,Natural / Dry,7.83,8,7.67,7.83,7.75,7.75,7.83,yellow-green,Good,Best,Good,Good,Good,Good
+32,Taiwan,Typica,Pulped natural / honey,7.83,7.83,7.75,7.75,7.75,7.75,7.92,greenish,Good,Good,Best,Good,Good,Best
+33,Nicaragua,Catrenic,Natural / Dry,7.92,7.75,7.67,7.67,7.83,7.75,8,green,Best,Good,Good,Good,Best,Best
+34,Taiwan,SL34,Natural / Dry,7.83,8,7.67,7.75,7.67,7.75,7.92,green,Good,Best,Good,Good,Good,Best
+35,Costa Rica,Gesha,Washed / Wet,7.75,7.83,7.67,7.83,7.75,7.75,7.92,green,Good,Good,Good,Good,Good,Best
+36,Honduras,Catuai,Washed / Wet,7.83,7.92,7.75,7.75,7.75,7.75,7.75,green,Good,Good,Best,Good,Good,Good
+37,Taiwan,Typica,Natural / Dry,8.08,7.92,7.75,7.83,7.5,7.58,7.83,green,Best,Good,Best,Good,Ok,Good
+38,Guatemala,Bourbon,Washed / Wet,7.67,7.83,7.75,7.75,7.83,7.75,7.75,green,Good,Good,Best,Good,Best,Good
+39,Ethiopia,Ethiopian Heirlooms,Natural / Dry,7.83,7.75,7.58,7.92,8,7.5,7.75,yellow green,Good,Good,Good,Best,Best,Good
+40,Colombia,Castillo and Colombia blend,Washed / Wet,7.75,7.75,7.75,7.75,7.83,7.67,7.83,green,Good,Good,Best,Good,Best,Good
+41,Guatemala,Typica,Washed / Wet,7.58,7.92,7.67,7.75,7.83,7.75,7.75,green,Ok,Good,Good,Good,Best,Good
+42,Honduras,Catuai,Washed / Wet,7.75,7.75,7.58,7.83,7.75,7.75,7.75,green,Good,Good,Good,Good,Good,Good
+43,Taiwan,unknown,Pulped natural / honey,7.83,7.92,7.83,7.58,7.58,7.67,7.67,greenish,Good,Good,Best,Ok,Ok,Good
+44,Guatemala,Caturra,Washed / Wet,7.67,7.83,7.67,7.83,7.75,7.67,7.67,green,Good,Good,Good,Good,Good,Good
+45,Honduras,Typica,Pulped natural / honey,7.75,7.75,7.75,7.67,7.75,7.67,7.67,green,Good,Good,Best,Good,Good,Good
+46,Ethiopia,Ethiopian Heirlooms,Washed / Wet,8,7.75,7.5,7.67,7.67,7.67,7.75,green,Best,Good,Ok,Good,Good,Good
+47,Colombia,Caturra,Washed / Wet,7.67,7.83,7.58,7.92,7.67,7.67,7.67,green,Good,Good,Good,Best,Good,Good
+48,Guatemala,Gesha,Natural / Dry,7.83,7.83,7.58,7.67,7.67,7.58,7.75,greenish,Good,Good,Good,Good,Good,Good
+49,Thailand,Catimor,Natural / Dry,7.75,7.67,7.58,7.75,7.75,7.67,7.75,yellowish,Good,Ok,Good,Good,Good,Good
+50,Guatemala,"BOURBON, CATURRA Y CATIMOR",Natural / Dry,7.58,7.83,7.67,7.67,7.67,7.67,7.75,green,Ok,Good,Good,Good,Good,Good
+51,Ethiopia,Ethiopian Heirlooms,Washed / Wet,7.83,7.67,7.5,7.92,7.5,7.67,7.75,green,Good,Ok,Ok,Best,Ok,Good
+52,United States (Hawaii),Typica,Washed / Wet,7.67,7.92,7.58,7.58,7.58,7.75,7.75,green,Good,Good,Good,Ok,Ok,Good
+53,Mexico,Sarchimor,Washed / Wet,7.67,7.67,7.58,7.67,7.83,7.58,7.75,green,Good,Ok,Good,Good,Best,Good
+54,Taiwan,SL34,Washed / Wet,7.67,7.67,7.75,7.75,7.5,7.67,7.67,bluish-green,Good,Ok,Best,Good,Ok,Good
+55,Taiwan,unknown,Pulped natural / honey,7.58,7.75,7.67,7.83,7.5,7.67,7.67,greenish,Ok,Good,Good,Good,Ok,Good
+56,Taiwan,unknown,Natural / Dry,7.58,7.67,7.5,7.75,7.75,7.67,7.67,green,Ok,Ok,Ok,Good,Good,Good
+57,Guatemala,Caturra,Washed / Wet,7.58,7.83,7.58,7.67,7.58,7.58,7.75,green,Ok,Good,Good,Good,Ok,Good
+58,Colombia,Caturra,Washed / Wet,7.75,7.75,7.5,7.58,7.83,7.5,7.58,bluish-green,Good,Good,Ok,Ok,Best,Good
+59,Ethiopia,Ethiopian Heirlooms,Washed / Wet,7.42,7.42,7.42,8,7.92,7.67,7.67,greenish,Ok,Ok,Ok,Best,Best,Good
+60,Uganda,SL14,Washed / Wet,7.75,7.75,7.5,7.5,7.58,7.58,7.75,green,Good,Good,Ok,Ok,Ok,Good
+61,Uganda,SL14,Washed / Wet,7.75,7.67,7.58,7.5,7.67,7.5,7.67,green,Good,Ok,Good,Ok,Good,Good
+62,Guatemala,"MARSELLESA, CATUAI, CATURRA & MARSELLESA, ANACAFE 14, CATUAI",Washed / Wet,7.5,7.75,7.58,7.75,7.67,7.58,7.5,green,Ok,Good,Good,Good,Good,Ok
+63,Colombia,Caturra,Washed / Wet,7.67,7.67,7.42,7.75,7.5,7.75,7.58,greenish,Good,Ok,Ok,Good,Ok,Good
+64,Taiwan,SL34,Washed / Wet,7.75,7.83,7.58,7.58,7.58,7.5,7.5,blue-green,Good,Good,Good,Ok,Ok,Ok
+65,"Tanzania, United Republic Of",Bourbon,Washed / Wet,7.92,7.67,7.42,7.5,7.67,7.58,7.5,greenish,Best,Ok,Ok,Ok,Good,Ok
+66,Taiwan,unknown,Washed / Wet,7.75,7.75,7.58,7.67,7.42,7.5,7.58,green,Good,Good,Good,Good,Ok,Good
+67,Honduras,Lempira,Washed / Wet,7.67,7.75,7.67,7.58,7.5,7.58,7.5,bluish-green,Good,Good,Good,Ok,Ok,Ok
+68,Taiwan,Typica,Natural / Dry,7.75,7.75,7.5,7.75,7.5,7.42,7.5,greenish,Good,Good,Ok,Good,Ok,Ok
+69,Laos,Catimor,Natural / Dry,7.67,7.75,7.33,7.67,7.58,7.5,7.58,brownish,Good,Good,Ok,Good,Ok,Good
+70,Honduras,Catuai,Washed / Wet,7.75,7.58,7.58,7.58,7.58,7.5,7.5,green,Good,Ok,Good,Ok,Ok,Ok
+71,Taiwan,Typica,Pulped natural / honey,7.5,7.67,7.58,7.58,7.5,7.5,7.58,blue-green,Ok,Ok,Good,Ok,Ok,Good
+72,Colombia,Typica Gesha,Washed / Wet,7.58,7.5,7.5,7.67,7.58,7.5,7.58,greenish,Ok,Ok,Ok,Good,Ok,Good
+73,Honduras,Catuai,Washed / Wet,7.67,7.58,7.5,7.5,7.58,7.5,7.5,green,Good,Ok,Ok,Ok,Ok,Ok
+74,Vietnam,Catimor,Pulped natural / honey,7.58,7.42,7.58,7.5,7.67,7.75,7.33,green,Ok,Ok,Good,Ok,Good,Ok
+75,Costa Rica,SL28,Pulped natural / honey,7.33,7.5,7.25,7.92,7.75,7.58,7.42,pale yellow,Ok,Ok,Ok,Best,Good,Ok
+76,Thailand,Caturra,Washed / Wet,7.33,7.58,7.58,7.5,7.67,7.67,7.33,greenish,Ok,Ok,Good,Ok,Good,Ok
+77,Honduras,Catuai,Washed / Wet,7.67,7.58,7.33,7.5,7.58,7.5,7.5,green,Good,Ok,Ok,Ok,Ok,Ok
+78,Taiwan,Caturra,Washed / Wet,7.67,7.58,7.42,7.42,7.5,7.5,7.5,blue-green,Good,Ok,Ok,Ok,Ok,Ok
+79,El Salvador,Bourbon,Washed / Wet,7.67,7.33,7.17,7.67,7.83,7.5,7.33,green,Good,Ok,Ok,Good,Best,Ok
+80,Brazil,Mundo Novo,Natural / Dry,7.5,7.58,7.5,7.5,7.67,7.42,7.33,bluish-green,Ok,Ok,Ok,Ok,Good,Ok
+81,Mexico,Pacamara,Washed / Wet,7.67,7.42,7.5,7.5,7.67,7.42,7.33,pale yellow,Good,Ok,Ok,Ok,Good,Ok
+82,Taiwan,unknown,Washed / Wet,7.42,7.42,7.58,7.42,7.58,7.5,7.58,green,Ok,Ok,Good,Ok,Ok,Good
+83,Vietnam,Catimor,Washed / Wet,7.5,7.5,7.33,7.5,7.5,7.42,7.58,bluish-green,Ok,Ok,Ok,Ok,Ok,Good
+84,El Salvador,Bourbon,Washed / Wet,7.33,7.67,7.25,7.67,7.83,7.42,7.17,bluish-green,Ok,Ok,Ok,Good,Best,Ok
+85,Peru,Caturra,Washed / Wet,7.67,7.5,7.33,7.58,7.33,7.42,7.42,greenish,Good,Ok,Ok,Ok,Ok,Ok
+86,Kenya,"SL28,SL34,Ruiru11",Washed / Wet,7.5,7.5,7.42,7.5,7.25,7.5,7.5,green,Ok,Ok,Ok,Ok,Ok,Ok
+87,Taiwan,unknown,Washed / Wet,7.5,7.67,7.33,7.5,7.25,7.33,7.5,bluish-green,Ok,Ok,Ok,Ok,Ok,Ok
+88,Taiwan,unknown,Washed / Wet,7.5,7.58,7.42,7.42,7.25,7.42,7.42,green,Ok,Ok,Ok,Ok,Ok,Ok
+89,Costa Rica,Caturra,Washed / Wet,7.42,7.42,7.42,7.33,7.58,7.33,7.5,green,Ok,Ok,Ok,Ok,Ok,Ok
+90,Indonesia,,Pulped natural / honey,7.67,7.33,7.25,7.67,7.42,7.25,7.42,bluish-green,Good,Ok,Ok,Good,Ok,Ok
+91,Guatemala,Caturra,Washed / Wet,7.33,7.42,7.33,7.42,7.58,7.42,7.42,greenish,Ok,Ok,Ok,Ok,Ok,Ok
+92,Vietnam,Catimor,Pulped natural / honey,7.5,7.5,7.25,7.42,7.42,7.42,7.33,green,Ok,Ok,Ok,Ok,Ok,Ok
+93,Brazil,Catucai,Natural / Dry,7.42,7.5,7.58,7.33,7.33,7.25,7.33,yellow-green,Ok,Ok,Good,Ok,Ok,Ok
+94,Mexico,Typica,Washed / Wet,7.58,7.42,7.25,7.25,7.5,7.33,7.33,green,Ok,Ok,Ok,Ok,Ok,Ok
+95,Taiwan,Typica,Pulped natural / honey,7.42,7.5,7.33,7.33,7.33,7.33,7.33,yellow-green,Ok,Ok,Ok,Ok,Ok,Ok
+96,Thailand,Java,Washed / Wet,7.33,7.42,7.25,7.33,7.5,7.42,7.17,green,Ok,Ok,Ok,Ok,Ok,Ok
+97,Thailand,Catimor,Washed / Wet,7.25,7.25,7.42,7.25,7.42,7.42,7.17,green,Ok,Ok,Ok,Ok,Ok,Ok
+98,Brazil,,Natural / Dry,7.42,7.42,7.25,7.25,7.17,7.25,7.25,greenish,Ok,Ok,Ok,Ok,Ok,Ok
+99,Nicaragua,Caturra,Washed / Wet,7.25,7.25,7.17,7.33,7.08,7.25,7.17,greenish,Ok,Ok,Ok,Ok,Ok,Ok
+100,Colombia,"Castillo,Caturra,Bourbon",Washed / Wet,7.25,7.25,7.17,7.33,7,7.17,7.25,greenish,Ok,Ok,Ok,Ok,Ok,Ok
+101,El Salvador,Pacas,Natural / Dry,7.08,7.25,7.08,7.42,7.42,7.08,7,bluish-green,Ok,Ok,Ok,Ok,Ok,Ok
+102,Brazil,Mundo Novo,Natural / Dry,7.17,7.17,6.92,7.17,7.42,7.17,7.08,green,Ok,Ok,Ok,Ok,Ok,Ok
+103,Laos,Catimor,Washed / Wet,7.25,7.17,7.08,7,7.08,7.08,7,green,Ok,Ok,Ok,Ok,Ok,Ok
+104,Brazil,Mundo Novo,SEMI-LAVADO,7.25,7.08,6.67,6.83,6.83,6.67,6.67,green,Ok,Ok,Ok,Ok,Ok,Ok
