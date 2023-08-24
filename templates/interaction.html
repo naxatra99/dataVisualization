@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+    <link href="https://www.jasondavies.com/parallel-sets/d3.parsets.css" rel="stylesheet" />
+    <script src="https://www.jasondavies.com/parallel-sets/d3.parsets.js"></script>
+    <title>Interaction</title>
+    <!-- Style necessary for y-axis in paracoord -->
+    <style>
+
+        svg {
+        font: 10px sans-serif;
+        }
+
+        .background path {
+        fill: none;
+        stroke: #ccc;
+        stroke-opacity: .4;
+        shape-rendering: crispEdges;
+        }
+
+        .foreground path {
+        fill: none;
+        stroke: steelblue;
+        stroke-opacity: .7;
+        }
+
+        .brush .extent {
+        fill-opacity: .3;
+        stroke: #fff;
+        shape-rendering: crispEdges;
+        }
+
+        .axis line, .axis path {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+        }
+
+        .axis text {
+        text-shadow: 0 1px 0 #fff;
+        cursor: move;
+        }
+    </style>
+</head>
+<body>
+    <h3> Linked Views between Parallel Sets and Parallel Coordinates </h3>
+
+    <div id="paraCoord">
+        <!-- space for the graph -->
+    </div>
+
+    <div id="paraSet">
+        <!-- space for the graph -->
+    </div>
+    <script type="text/javascript" src="{{ url_for('static', filename='/interaction.js') }}">
+        // JS to add graphs and linked view 
+    </script>
+</body>
+</html>

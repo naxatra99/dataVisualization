@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+    <link href="https://www.jasondavies.com/parallel-sets/d3.parsets.css" rel="stylesheet" />
+    <script src="https://www.jasondavies.com/parallel-sets/d3.parsets.js"></script>
+    <title>All data as categorical in parallel sets</title>
+</head>
+<body>
+    <h1>Parallel Sets</h1>
+    <p>visualization method with binning of continuous data to get categorical Data</p>
+    <div id="paraSet">
+        <!-- Space for paraSet graph -->
+    </div>
+    <script type="text/javascript"
+    src="{{ url_for('static', filename='/parsetsBinned.js') }}">
+        // JS to add Binned Parasets graph
+    </script>
+</body>
+</html>
