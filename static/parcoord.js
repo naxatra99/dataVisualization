@@ -13,7 +13,7 @@ dragging = {};
 
 var line = d3.svg.line(),
     axis = d3.svg.axis()
-        .orient("left"),
+        .orient("left").ticks(4),
     background,
     foreground;
 
@@ -27,13 +27,14 @@ var svg = d3.select("#paraCoord")
 d3.csv("/static/coffee_data_final.csv", function(error, coffee) {
 
   // Extract the list of dimensions and create a scale for each.
-  var excludeColumn = ["", "Country of Origin", "Altitude", "Grading Date", "Variety", "Processing Method", "Color", "Expiration", "Defects", "Total Cup Points", "Moisture Percentage", "Category One Defects", "Quakers", "Category Two Defects"];
+  var excludeColumn = ["", "ID","Body", "Balance", "Overall", "Country of Origin", "Altitude", "Grading Date", "Variety", "Processing Method", "Color", "Expiration", "Defects", "Total Cup Points", "Moisture Percentage", "Category One Defects", "Quakers", "Category Two Defects"];
   x.domain(dimensions = d3.keys(coffee[1]).filter(function(d) {
     return !excludeColumn.includes(d) && (y[d] = d3.scale.linear()
-        .domain(d3.extent(coffee, function(p) { return +p[d]; }))
-        .range([0, height]));
+        // .domain(d3.extent(coffee, function(p) { return +p[d]; }))
+        .domain([6.5 , 9])
+        .range([0, height])
+        );
     }));
-    
 
   // Add grey background lines for context.
   background = svg.append("g")

@@ -3,15 +3,15 @@
 // http://jsfiddle.net/yFXqj/
 
 var m = [30, 10, 10, 10],
-    w = 1400 - m[1] - m[3],
-    h = 1300 - m[0] - m[2];
+    w = 1600 - m[1] - m[3],  //change numerical value for width
+    h = 900 - m[0] - m[2];  //change numerical value for height
 
 var x = d3.scale.ordinal().rangePoints([0, w], 1),
     y = {},
     dragging = {};
 
 var line = d3.svg.line(),
-    axis = d3.svg.axis().orient("left"),
+    axis = d3.svg.axis().orient("left").ticks(4),
     background,
     foreground;
 
@@ -33,10 +33,10 @@ d3.csv("/static/testQuantifized.csv", function(error, coffee) {
         d["Flavor"] = +d["Flavor"];
         d["Aftertaste"] = +d["Aftertaste"];
         d["Acidity"] = +d["Acidity"];
-        d["Body"] = +d["Body"];
-        d["Balance"] = +d["Balance"];
-        d["Uniformity"] = +d["Uniformity"];
-        d["Overall"] = +d["Overall"];
+        // d["Body"] = +d["Body"];
+        // d["Balance"] = +d["Balance"];
+        // d["Uniformity"] = +d["Uniformity"];
+        // d["Overall"] = +d["Overall"];
         // Add more columns here for continuous dimensions
       });
 
@@ -49,18 +49,26 @@ d3.csv("/static/testQuantifized.csv", function(error, coffee) {
                d === "Aroma" ||
                d === "Flavor" ||
                d === "Aftertaste" ||
-               d === "Acidity" ||
-               d === "Body" ||
-               d === "Balance" ||
-               d === "Uniformity" ||
-               d === "Overall";
+               d === "Acidity";
+              //  d === "Body" ||
+              //  d === "Balance" ||
+              //  d === "Uniformity" ||
+              //  d === "Overall";
       }));
 
       // Set the domain and range for each continuous dimension
       dimensions.forEach(function(dim) {
-        y[dim] = d3.scale.linear()
-          .domain(d3.extent(coffee, function(d) { return d[dim]; }))
-          .range([h, 0]);
+        if (dim === "Norm COO MCA" ||dim === "Norm Variety MCA" ||dim === "Norm PM MCA" ||dim ===  "Norm Color MCA" ) {
+              y[dim] = d3.scale.linear()
+              .domain(d3.extent(coffee, function(d) { return d[dim]; }))
+              // .domain([6.5, 9])
+              .range([h, 0]);
+        } else {
+            y[dim] = d3.scale.linear()
+            // .domain(d3.extent(coffee, function(d) { return d[dim]; }))
+            .domain([6.5, 9])
+            .range([h, 0]);
+        }
       });
   
   // Add grey background lines for context.
@@ -146,8 +154,8 @@ g.append("svg:g")
   }
   else {
     d3.select(this).call(axis.scale(y[d]))
-    // d3.select(this).call(axis.scale(y[d])).append("text")
-    .call(g => g.selectAll(".tick").remove())
+    // d3.select(this).call(axis.scale(y[d]).tickValues([5, 6, 7, 8, 9])).append("text")
+    // .call(g => g.selectAll(".tick").remove())
     .append("text")
     .style("text-anchor", "middle")
     .attr("y", -9)
@@ -173,6 +181,7 @@ g.append("svg:g")
       .attr("width", 16);
 
     // Add data point labels for each dimension.
+    
     var dataPointLabels = svg.selectAll(".data-point-label")
     .data(coffee)
     .enter()
@@ -204,18 +213,19 @@ g.append("svg:g")
             return d.ProcessingMethod;
           } else if (d.dimension === "Norm Color MCA") {
             return d.Color;
-          } else if (d.dimension === "Aroma") {
-            return d.Aroma;
-          }
-          else if (d.dimension === "Flavor") {
-            return d.Flavor;
-          }
-          else if (d.dimension === "Aftertaste") {
-            return d.Aftertaste;
-          }
-          else if (d.dimension === "Acidity") {
-            return d.Acidity;
-          }
+          } 
+          // else if (d.dimension === "Aroma") {
+          //   return d.Aroma
+          // }
+          // else if (d.dimension === "Flavor") {
+          //   return d.Flavor;
+          // }
+          // else if (d.dimension === "Aftertaste") {
+          //   return d.Aftertaste;
+          // }
+          // else if (d.dimension === "Acidity") {
+          //   return d.Acidity;
+          // }
           else if (d.dimension === "Body") {
             return d.Body;
           }

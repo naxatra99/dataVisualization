@@ -3,7 +3,7 @@
 // https://stackoverflow.com/questions/36066931/rotate-d3-parset-visualization-90-degrees-make-horizontal-instead-of-vertical
 
 var chart = d3.parsets()
-.dimensions(["Country of Origin", "Variety", "Processing Method"])
+.dimensions(["Country of Origin", "Variety", "Processing Method", "Color"])
 
 
 var vis = d3.select("#paraSet").append("svg") 

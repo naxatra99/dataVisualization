@@ -44,17 +44,26 @@
         text-shadow: 0 1px 0 #fff;
         cursor: move;
         }
+
+        .container {
+            display: flex;            /* Make the container a flex container */
+            justify-content: space-between; /* Distribute the children divs evenly */
+            align-items: start;       /* Align items to the start of the flex direction */
+            gap: 20px;                /* Gap between children divs */
+        }
+
     </style>
 </head>
 <body>
     <h3> Linked Views between Parallel Sets and Parallel Coordinates </h3>
+    <div class="container">
+        <div id="paraCoord">
+            <!-- space for the graph -->
+        </div>
 
-    <div id="paraCoord">
-        <!-- space for the graph -->
-    </div>
-
-    <div id="paraSet">
-        <!-- space for the graph -->
+        <div id="paraSet">
+            <!-- space for the graph -->
+        </div>
     </div>
     <script type="text/javascript" src="{{ url_for('static', filename='/interaction.js') }}">
         // JS to add graphs and linked view 

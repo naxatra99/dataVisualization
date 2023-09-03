@@ -1,15 +1,38 @@
 // Code for ParaSet plot
+
+var margin = {top: 0, right: 120, bottom: 50, left: 0},
+    width = 1000 - margin.left - margin.right,
+    height = 1000 - margin.top - margin.bottom;
+
 var chart = d3.parsets()
-.dimensions(["Country of Origin", "Variety", "Processing Method"]);
+.dimensions(["Country of Origin", "Variety", "Processing Method", "Color"]);
 
 var vis = d3.select("#paraSet").append("svg")
 .attr("width", chart.width())
-.attr("height", chart.height());
+.attr("height", 1200)
+.append("g")
+.attr("transform", "translate(0,1000)rotate(-90)");
 
 d3.csv("/static/coffee_data_final.csv", function(error, data){
     // console.log(data);
     vis.datum(data).call(chart);
+    vis.selectAll(".category text")
+    .attr("dx", 5)
+    .attr("transform", "rotate(90)");
+    vis.selectAll(".category rect")
+        .attr("y", 0);
+    vis.selectAll("text.dimension")
+        .attr("dy", "1.5em")
+        .attr("transform", "rotate(90)");
+    vis.selectAll("text.dimension .sort.alpha")
+        .attr("x", 0)
+        .attr("dx", 0)
+        .attr("dy", "1.5em");
+    vis.selectAll("text.dimension .sort.size")
+        .attr("dx", "1em");
 })
+
+
 
 // Code for paraCoord plot
 
@@ -24,7 +47,7 @@ dragging = {};
 
 var line = d3.svg.line(),
     axis = d3.svg.axis()
-        .orient("left"),
+        .orient("left").ticks(4),
     background,
     foreground;
 
@@ -38,11 +61,12 @@ var svg = d3.select("#paraCoord")
 d3.csv("/static/coffee_data_final.csv", function(error, coffee) {
 
   // Extract the list of dimensions and create a scale for each.
-  var excludeColumn = ["", "Country of Origin", "Altitude", "Grading Date", "Variety", "Processing Method", "Color", "Expiration", "Defects", "Total Cup Points", "Moisture Percentage", "Category One Defects", "Quakers", "Category Two Defects", "Clean Cup", "Sweetness"];
+  var excludeColumn = ["", "ID", "Country of Origin", "Altitude", "Grading Date", "Variety", "Processing Method", "Color", "Body", "Overall", "Balance", "Expiration", "Defects", "Total Cup Points", "Moisture Percentage", "Category One Defects", "Quakers", "Category Two Defects", "Clean Cup", "Sweetness"];
   x.domain(dimensions = d3.keys(coffee[1]).filter(function(d) {
     return !excludeColumn.includes(d) && (y[d] = d3.scale.linear()
-        .domain(d3.extent(coffee, function(p) { return +p[d]; }))
-        .range([0, height]));
+        // .domain(d3.extent(coffee, function(p) { return +p[d]; }))
+        .domain([6.5, 9])
+        .range([height, 0]));
     }));
     
 
@@ -96,7 +120,7 @@ d3.csv("/static/coffee_data_final.csv", function(error, coffee) {
   // Add an axis and title.
   g.append("g")
       .attr("class", "axis")
-      .each(function(d) { d3.select(this).call(axis.scale(y[d]).ticks(0)); })
+      .each(function(d) { d3.select(this).call(axis.scale(y[d]).ticks(4)); })
     .append("text")
       .style("text-anchor", "middle")
       .attr("y", -9)
@@ -139,18 +163,18 @@ d3.csv("/static/coffee_data_final.csv", function(error, coffee) {
           if (d.dimension === "ID") {
             return d.ID;
           }
-          else if (d.dimension === "Aroma") {
-            return d.Aroma;
-          }
-          else if (d.dimension === "Flavor") {
-            return d.Flavor;
-          }
-          else if (d.dimension === "Aftertaste") {
-            return d.Aftertaste;
-          }
-          else if (d.dimension === "Acidity") {
-            return d.Acidity;
-          }
+          // else if (d.dimension === "Aroma") {
+          //   return d.Aroma;
+          // }
+          // else if (d.dimension === "Flavor") {
+          //   return d.Flavor;
+          // }
+          // else if (d.dimension === "Aftertaste") {
+          //   return d.Aftertaste;
+          // }
+          // else if (d.dimension === "Acidity") {
+          //   return d.Acidity;
+          // }
           else if (d.dimension === "Body") {
             return d.Body;
           }

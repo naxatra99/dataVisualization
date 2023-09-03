@@ -1,4 +1,4 @@
-ID,Country of Origin,Variety,Processing Method,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Overall,Color,Aroma_Category,Flavor_Category,Aftertaste_Category,Acidity_Category,Body_Category,Overall_Category
+ID,Country of Origin,Variety,Processing Method,Aroma_,Flavor_,Aftertaste_,Acidity_,Body_,Balance,Overall,Color,Aroma,Flavor,Aftertaste,Acidity,Body,Overall
 1,Colombia,Castillo,Double Anaerobic Washed,8.58,8.5,8.42,8.58,8.25,8.42,8.58,green,Best,Best,Best,Best,Best,Best
 2,Laos,Java,Semi Washed,8.33,8.42,8.08,8.17,7.92,8.17,8.33,yellowish,Best,Best,Best,Best,Best,Best
 3,Colombia,Red Bourbon,"Honey,Mossto",8.33,8.33,8.08,8.25,7.92,7.92,8.25,yellow-green,Best,Best,Best,Best,Best,Best
