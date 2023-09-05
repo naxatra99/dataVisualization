@@ -11,7 +11,7 @@ var vis = d3.select("#paraSet").append("svg")
 .attr("height", chart.height());
 
 
-d3.csv("/static/coffee_data_final.csv", function(error, data){
+d3.csv("/static/arabica_data_cleaned_V02.csv", function(error, data){
     // console.log(data);
     vis.datum(data).call(chart);
 })

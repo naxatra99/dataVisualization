@@ -24,15 +24,15 @@ var svg = d3.select("#paraCoord")
 .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("/static/coffee_data_final.csv", function(error, coffee) {
+d3.csv("/static/arabica_data_cleaned_V02.csv", function(error, coffee) {  //older data set with 100 instances: coffee_data_final
 
   // Extract the list of dimensions and create a scale for each.
-  var excludeColumn = ["", "ID","Body", "Balance", "Overall", "Country of Origin", "Altitude", "Grading Date", "Variety", "Processing Method", "Color", "Expiration", "Defects", "Total Cup Points", "Moisture Percentage", "Category One Defects", "Quakers", "Category Two Defects"];
+  var excludeColumn = ["","Unique Countries","Occurences","ID","Body", "Balance", "Overall", "Country of Origin", "Altitude", "Grading Date", "Variety", "Processing Method", "Color", "Expiration", "Defects", "Total Cup Points", "Moisture Percentage", "Category One Defects", "Quakers", "Category Two Defects"];
   x.domain(dimensions = d3.keys(coffee[1]).filter(function(d) {
     return !excludeColumn.includes(d) && (y[d] = d3.scale.linear()
         // .domain(d3.extent(coffee, function(p) { return +p[d]; }))
-        .domain([6.5 , 9])
-        .range([0, height])
+        .domain([5 , 9])
+        .range([ height, 0])
         );
     }));
 
