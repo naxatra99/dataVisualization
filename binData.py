@@ -18,3 +18,8 @@ df['Overall_Category'] = pd.qcut(df['Overall'], 3, labels=labels)
 print(df)
 
 df.to_csv('static/all_coffee_categorical_data.csv', index=False)
+
+# Aroma
+# OK (6.5, 7.33]
+# GOOD (7.33, 8.16]
+# BEST (8.16, 9]
