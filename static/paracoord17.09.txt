@@ -88,7 +88,7 @@ d3.csv("/static/testQuantifized.csv", function(error, coffee) {
       .attr("d", path);
 
   // Add a group element for each dimension.
-  var g = svg.selectAll(".dimension .data-point-label")
+  var g = svg.selectAll(".dimension")
       .data(dimensions)
     .enter().append("svg:g")
       .attr("class", "dimension")
@@ -163,6 +163,46 @@ g.append("svg:g")
   }
 });
 
+// Add an axis and title for categorical dimensions.
+// g.append("svg:g")
+//   .attr("class", "axis")
+//   .each(function (d) {
+//     if (d === "Norm COO MCA" || d === "Norm Variety MCA" || d === "Norm PM MCA" || d === "Norm Color MCA") {
+//       d3.select(this).call(axis.scale(y[d]))
+//         .selectAll("text")
+//         .style("text-anchor", "middle")
+//         .attr("dy", "1.5em") // Adjust the label position
+//         .text(d);
+//     } else {
+//       d3.select(this).remove(); // Remove axis for continuous dimensions
+//     }
+//   });
+
+// // Update data point labels for each dimension.
+// dataPointLabels.selectAll(".label")
+//   .data(function (d) {
+//     return dimensions.map(function (p) {
+//       return { dimension: p, value: d[p] };
+//     });
+//   })
+//   .enter()
+//   .append("text")
+//   .attr("class", "data-point")
+//   .style("text-anchor", "middle")
+//   .attr("x", function (d) {
+//     return position(d.dimension);
+//   })
+//   .attr("y", function (d) {
+//     return y[d.dimension](d.value);
+//   })
+//   .text(function (d) {
+//     return d.value;
+//   });
+
+
+
+
+
     g.selectAll(".dimension")
         .data(coffee)
         .append("text")
@@ -189,19 +229,15 @@ g.append("svg:g")
     .attr("class", "data-point-label");
   
   dataPointLabels.selectAll(".label")
-    .data(function (d, i) {
+    .data(function (d) {
       return dimensions.map(function (p) {
-        return {index: i, dimension: p, value: d[p], CountryOfOrigin: d["Country of Origin"],  Variety: d["Variety"], ProcessingMethod: d["Processing Method"], Aroma: d["Aroma"], Flavor: d["Flavor"], Aftertaste: d["Aftertaste"], Acidity: d["Acidity"], Body: d["Body"], Balance: d["Balance"], Uniformity: d["Uniformity"], Overall: d["Overall"],Color: d["Color"] };
+        return { dimension: p, value: d[p], CountryOfOrigin: d["Country of Origin"],  Variety: d["Variety"], ProcessingMethod: d["Processing Method"], Aroma: d["Aroma"], Flavor: d["Flavor"], Aftertaste: d["Aftertaste"], Acidity: d["Acidity"], Body: d["Body"], Balance: d["Balance"], Uniformity: d["Uniformity"], Overall: d["Overall"],Color: d["Color"] };
       });
     })
     .enter()
     .append("text")
     .attr("class", "data-point")
-    // .style("text-anchor", "middle")
-    .style("text-anchor", function(d) {
-      // Alternate between "start" and "middle" based on the index
-      return d.index % 2 === 0 ? "middle" : "middle";
-    })
+    .style("text-anchor", "middle")
     .attr("x", function (d) {
       return position(d.dimension);
     })
@@ -211,8 +247,7 @@ g.append("svg:g")
     .text(function (d) {
         if (d.dimension === "Norm COO MCA") {
             return d.CountryOfOrigin;
-          } 
-          else if (d.dimension === "Norm Variety MCA") {
+          } else if (d.dimension === "Norm Variety MCA") {
             return d.Variety;
           } else if (d.dimension === "Norm PM MCA") {
             return d.ProcessingMethod;
@@ -249,8 +284,6 @@ g.append("svg:g")
     });
 
 });
-
-
 
 function position(d) {
   var v = dragging[d];
