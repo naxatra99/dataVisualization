@@ -49,11 +49,16 @@
 <body>
     <h1>Parallel Coordinates</h1>
     <p>visualization method with quantification of categorical data to get continuous Data</p>
+    <!-- Dropdown for selecting dimensions -->
+    <label for="dimensionSelect">Select Dimensions:</label>
+    <select id="dimensionSelect" multiple></select>
+    <br>
+    <button id="drawGraphButton">Draw Graph</button>
     <div id="paraCoord">
         <!-- space for paraCoord graph -->
     </div>
     <script type="text/javascript"
-    src="{{ url_for('static', filename='/parcoordQuant.js') }}">
+    src="{{ url_for('static', filename='parcoordQuant.js') }}">
         // JS to add quantifized ParaCoord graph
     </script>
     

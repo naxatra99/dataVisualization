@@ -1,16 +1,3 @@
-// Parasets old vertical view
-// var chart = d3.parsets()
-// .dimensions(["Country of Origin", "Variety", "Processing Method", "Color", "Aroma_Category", "Flavor_Category", "Aftertaste_Category", "Acidity_Category"]);
-
-// var vis = d3.select("#paraSet").append("svg")
-// .attr("width", chart.width())
-// .attr("height", chart.height());
-
-// d3.csv("/static/all_coffee_categorical_data_cleaned.csv", function(error, data){
-//     // console.log(data);
-//     vis.datum(data).call(chart);
-// })
-
 // Parasets horizontal view
 
 var margin = {top: 0, right: 120, bottom: 50, left: 0},
@@ -21,7 +8,8 @@ var margin = {top: 0, right: 120, bottom: 50, left: 0},
 var chart = d3.parsets()
 .height(height)
 .width(width)
-.dimensions(["Country of Origin", "Variety", "Processing Method", "Color", "Aroma", "Flavor", "Aftertaste", "Acidity"]);
+// .dimensions(["Country of Origin", "Variety", "Processing Method", "Color", "Aroma", "Flavor", "Aftertaste", "Acidity"]);
+//.dimensions(d3.keys(data[0]))
 
 var svg = d3.select("#paraSet").append("svg")
 .attr("width", width + margin.left + margin.right)
@@ -29,8 +17,11 @@ var svg = d3.select("#paraSet").append("svg")
 .append("g")
 .attr("transform", "translate(0," + height + ")rotate(-90)");
 
-d3.csv("/static/all_coffee_categorical_data_cleaned.csv", function(error, data){
-    // console.log(data);
+d3.csv("static/test_categorical_data.csv", function(error, data){
+    // console.log(dimensions);
+    var dimensions = d3.keys(data[0]); // Get header names from the CSV file
+    chart.dimensions(dimensions); // Set the dimensions for the chart
+    console.log(dimensions)
     svg.datum(data).call(chart);
     svg.selectAll(".category text")
       .attr("dx", 5)
