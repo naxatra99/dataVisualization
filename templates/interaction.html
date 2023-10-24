@@ -67,12 +67,33 @@
 <body>
     <h3> Linked Views between Parallel Sets and Parallel Coordinates </h3>
     <div class="container">
-        <div id="paraCoord">
-            <!-- space for the graph -->
+        <div class="col-1">
+            <div class="row-1">
+                <!-- Dropdown for selecting dimensions -->
+                <label for="dimensionSelectParaCoord">Select Dimensions:</label>
+                <select id="dimensionSelectParaCoord" multiple></select>
+                <br>
+                <button id="drawGraphButtonParaCoord">Draw Graph</button>
+            </div>
+            <div class="row-2">
+                <div id="paraCoord">
+                    <!-- space for the graph -->
+                </div>
+            </div>
         </div>
-
-        <div id="paraSet">
-            <!-- space for the graph -->
+        <div class="col-2">
+            <div class="row-3">
+                <!-- Dropdown for selecting dimensions -->
+                <label for="dimensionSelectParaSet">Select Dimensions:</label>
+                <select id="dimensionSelectParaSet" multiple></select>
+                <br>
+                <button id="drawGraphButtonParaSet">Draw Graph</button>
+            </div>
+            <div class="row-4">
+                <div id="paraSet">
+                    <!-- space for the graph -->
+                </div>
+            </div>
         </div>
     </div>
     <script type="text/javascript" src="{{ url_for('static', filename='interaction.js') }}">

@@ -51,6 +51,16 @@ function brush() {
     });
 }
 
+// Function to clear the parallel coordinates plot
+function clearPlot() {
+    // Remove the background lines
+    svg.selectAll(".background").selectAll("path").remove();
+    // Remove the foreground lines
+    svg.selectAll(".foreground").selectAll("path").remove();
+    svg.selectAll(".dimension").remove();
+    svg.selectAll(".data-point-label").remove();
+}
+
 // Load CSV data and populate dropdown
 function loadCSVAndPopulateDropdown() {
     d3.csv("/static/test_continuous_data.csv", function (error, data) {
@@ -279,77 +289,11 @@ function drawGraph() {
     return filteredData;
   });
   console.log(filteredCoffee);
-
+  clearPlot();
+  setupParallelCoordinates(filteredCoffee);
   // Call the brush function to update the display (if needed)
   brush(); // You can include this if brushing is necessary
 
-  // You should define the dimensions again based on selectedDimensions
-  var dimensions = selectedDimensions;
-
-  // Add an axis and title for selected dimensions.
-  var g = svg.selectAll(".dimension")
-    .data(dimensions)
-    .enter()
-    .append("svg:g")
-    .attr("class", "dimension")
-    .attr("transform", function (d) { return "translate(" + x(d) + ")"; })
-    .call(d3.behavior.drag()
-      .on("dragstart", function (d) {
-        dragging[d] = this.__origin__ = x(d);
-        background.attr("visibility", "hidden");
-      })
-      .on("drag", function (d) {
-        dragging[d] = Math.min(w, Math.max(0, this.__origin__ += d3.event.dx));
-        foreground.attr("d", path);
-        dimensions.sort(function (a, b) { return position(a) - position(b); });
-        x.domain(dimensions);
-        g.attr("transform", function (d) { return "translate(" + position(d) + ")"; })
-      })
-      .on("dragend", function (d) {
-        delete this.__origin__;
-        delete dragging[d];
-        transition(d3.select(this)).attr("transform", "translate(" + x(d) + ")");
-        transition(foreground)
-          .attr("d", path);
-        background
-          .attr("d", path)
-          .transition()
-          .delay(500)
-          .duration(0)
-          .attr("visibility", null);
-      }));
-
-  // Add an axis and title for selected dimensions.
-  g.append("svg:g")
-    .attr("class", "axis")
-    .each(function (d) {
-      if (d.startsWith("Norm_")) {
-        var label = d.substring(5);
-        d3.select(this).call(axis.scale(y[d]))
-          .call(g => g.selectAll(".tick").remove())
-          .append("text")
-          .style("text-anchor", "middle")
-          .attr("y", -9)
-          .text(label);
-      } else {
-        d3.select(this).call(axis.scale(y[d]))
-          .append("text")
-          .style("text-anchor", "middle")
-          .attr("y", -9)
-          .text(String);
-      }
-    });
-
-  // Your code for adding data point labels (if needed)
-
-  // Update the background and foreground paths
-  background.selectAll("path")
-    .data(filteredCoffee)
-    .attr("d", path);
-
-  foreground.selectAll("path")
-    .data(filteredCoffee)
-    .attr("d", path);
 }
 
 

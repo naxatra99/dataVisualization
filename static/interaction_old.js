@@ -42,21 +42,19 @@ document.getElementById("drawGraphButtonParaSet").addEventListener("click", func
     vis.datum([]).call(chart); // Clear the existing plot
     // Update the Parallel Sets plot with selected dimensions
     // svg.datum([filteredCoffee]).call(chart); 
-    makeChart(filteredCoffee, selectedDimensions);
+    makeChart(filteredCoffee);
     // chart.dimensions(filteredCoffee);
     // svg.call(chart);
 });
 
-function makeChart(data, dimensions) {
-    if (!dimensions || dimensions.length === 0) {
+function makeChart(data) {
     var dimensions = d3.keys(data[0]); // Get header names from the CSV file
     // Filter out dimensions with numerical values and those with undesired names
     dimensions = dimensions.filter(function (dimension) {
       return !data.every(function (d) {
           return !isNaN(+d[dimension]);
       }) && dimension.indexOf("_Category") === -1 && dimension.indexOf("binned") === -1;
-    });
-    }
+  });
     chart.dimensions(dimensions); // Set the dimensions for the chart
     console.log(dimensions)
     vis.datum(data).call(chart);
@@ -453,7 +451,7 @@ function setupParallelCoordinates(coffee) {
       // Call the brush function to update the display (if needed)
       brush(); // You can include this if brushing is necessary
 
-    }   
+}
 
 // Initial call to load CSV and populate the dropdown
 loadCSVAndPopulateDropdown();
