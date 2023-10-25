@@ -1,6 +1,7 @@
 // Code for ParaSet plot
 
 var coffee;
+var selectedDimensions;
 var margin = {top: 0, right: 120, bottom: 50, left: 0},
     width = 1000 - margin.left - margin.right,
     height = 1000 - margin.top - margin.bottom;
@@ -23,7 +24,7 @@ d3.csv("static/test_categorical_data.csv", function(error, data){
     // console.log(dimensions);
     // Populate the dropdown with dimension options
     coffee = data;
-    makeChart(data);
+    makeChart(data, selectedDimensions);
 });
 // Handle the "Draw Graph" button click
 document.getElementById("drawGraphButtonParaSet").addEventListener("click", function() {
@@ -48,7 +49,7 @@ document.getElementById("drawGraphButtonParaSet").addEventListener("click", func
 });
 
 function makeChart(data, dimensions) {
-    if (!dimensions || dimensions.length === 0) {
+    if (!selectedDimensions || selectedDimensions.length === 0) {
     var dimensions = d3.keys(data[0]); // Get header names from the CSV file
     // Filter out dimensions with numerical values and those with undesired names
     dimensions = dimensions.filter(function (dimension) {
@@ -56,6 +57,8 @@ function makeChart(data, dimensions) {
           return !isNaN(+d[dimension]);
       }) && dimension.indexOf("_Category") === -1 && dimension.indexOf("binned") === -1;
     });
+    } else {
+        dimensions = selectedDimensions;
     }
     chart.dimensions(dimensions); // Set the dimensions for the chart
     console.log(dimensions)
@@ -387,17 +390,31 @@ function setupParallelCoordinates(coffee) {
       // Clear the existing Parallel Sets plot
       vis.selectAll("*").remove();
       console.log(dimensions);
-      // // Extract the dimensions to be shown in the parallel sets plot
-      var dimensionsToShow = ["Country of Origin", "Processing Method", "Variety"];
 
-      // Filter the data to include only the dimensions to be shown
-      var filteredDataToShow = filteredData.map(function(d) {
-          return {
-          "Country of Origin": d["Country of Origin"],
-          "Processing Method": d["Processing Method"],
-          "Variety": d["Variety"]
-          };
-      });
+          // Create an object to store selected dimensions
+    var selectedDimensions = {};
+
+    // Add selected dimensions to the object
+    dimensions.forEach(function (dimension) {
+        selectedDimensions[dimension] = true;
+    });
+
+    // Filter the data to include only the selected dimensions
+    var filteredDataToShow = filteredData.map(function (d) {
+        var dataEntry = {};
+        for (var dimension in d) {
+            if (selectedDimensions[dimension]) {
+                dataEntry[dimension] = d[dimension];
+            }
+        }
+        return dataEntry;
+    });
+
+    // Update the dimensions of the parallel sets plot with the selected data
+    chart.dimensions(dimensions);
+
+    // Create the updated parallel sets plot with the filtered data
+    vis.datum(filteredDataToShow).call(chart);
 
       // // Update the dimensions of the parallel sets plot with the filtered data
       // chart.dimensions(dimensionsToShow);
@@ -411,6 +428,7 @@ function setupParallelCoordinates(coffee) {
         var actives = dimensions.filter(function (p) { return !y[p].brush.empty(); }),
           extents = actives.map(function (p) { return y[p].brush.extent(); });
         
+            
           foreground.style("display", function(d) {
             return actives.every(function(p, i) {
               return extents[i][0] <= d[p] && d[p] <= extents[i][1];
@@ -425,8 +443,8 @@ function setupParallelCoordinates(coffee) {
         });
     
         // Update the parallel sets plot with the filtered data
-        updateParallelSets(filteredData);
-        makeChart(filteredData);
+        updateParallelSets(filteredData, selectedDimensions);
+        makeChart(filteredData, dimensions);
       }
 
       // Call the select function whenever the brush is used
@@ -450,6 +468,8 @@ function setupParallelCoordinates(coffee) {
       console.log(filteredCoffee);
       clearPlot();
       setupParallelCoordinates(filteredCoffee);
+      // Call the filterData function to update the display and parallel sets plot
+      filterData();
       // Call the brush function to update the display (if needed)
       brush(); // You can include this if brushing is necessary
 
