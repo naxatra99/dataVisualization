@@ -385,17 +385,17 @@ function setupParallelCoordinates(coffee) {
       // Clear the existing Parallel Sets plot
       vis.selectAll("*").remove();
       console.log(dimensions);
-      // // Extract the dimensions to be shown in the parallel sets plot
-      var dimensionsToShow = ["Country of Origin", "Processing Method", "Variety"];
+    //   // // Extract the dimensions to be shown in the parallel sets plot
+    //   var dimensionsToShow = ["Country of Origin", "Processing Method", "Variety"];
 
-      // Filter the data to include only the dimensions to be shown
-      var filteredDataToShow = filteredData.map(function(d) {
-          return {
-          "Country of Origin": d["Country of Origin"],
-          "Processing Method": d["Processing Method"],
-          "Variety": d["Variety"]
-          };
-      });
+    //   // Filter the data to include only the dimensions to be shown
+    //   var filteredDataToShow = filteredData.map(function(d) {
+    //       return {
+    //       "Country of Origin": d["Country of Origin"],
+    //       "Processing Method": d["Processing Method"],
+    //       "Variety": d["Variety"]
+    //       };
+    //   });
 
       // // Update the dimensions of the parallel sets plot with the filtered data
       // chart.dimensions(dimensionsToShow);
@@ -406,6 +406,7 @@ function setupParallelCoordinates(coffee) {
 
     function filterData() {
         // Get the current brush extents
+        console.log(dimensions)
         var actives = dimensions.filter(function (p) { return !y[p].brush.empty(); }),
           extents = actives.map(function (p) { return y[p].brush.extent(); });
         
