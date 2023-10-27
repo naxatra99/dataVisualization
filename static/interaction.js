@@ -49,6 +49,7 @@ document.getElementById("drawGraphButtonParaSet").addEventListener("click", func
 });
 
 function makeChart(data, selectedDimensions) {
+    console.log(data)
     console.log(selectedDimensions)
     if (!selectedDimensions || selectedDimensions.length === 0) {
         var dimensions = d3.keys(data[0]); // Get header names from the CSV file
@@ -436,7 +437,7 @@ function setupParallelCoordinates(coffee) {
             return extents[i][0] <= d[p] && d[p] <= extents[i][1];
           });
         });
-    
+        console.log(filteredData)
         // Update the parallel sets plot with the filtered data
         updateParallelSets(filteredData);
         makeChart(filteredData, selectedDimensions);
@@ -446,27 +447,47 @@ function setupParallelCoordinates(coffee) {
       d3.selectAll(".brush").each(function (d) {
         d3.select(this).call(y[d].brush.on("brush", filterData)); // Update this line to use "on" instead of "call"
       });
+
+      function drawGraph() {
+        var selectedDimensions = Array.from(document.getElementById("dimensionSelectParaCoord").selectedOptions, option => option.value);
+        console.log(selectedDimensions);
+  
+        // Filter the data to include only selected dimensions
+        var filteredCoffee = coffee.map(function (d) {
+          var filteredData = {};
+          selectedDimensions.forEach(function (dim) {
+            filteredData[dim] = d[dim];
+          });
+          return filteredData;
+        });
+        console.log(filteredCoffee);
+        clearPlot();
+        setupParallelCoordinates(filteredCoffee);
+        // Call the brush function to update the display (if needed)
+      //   brush(); // You can include this if brushing is necessary
+        filterData();
+      }
     }
 
-    function drawGraph() {
-      var selectedDimensions = Array.from(document.getElementById("dimensionSelectParaCoord").selectedOptions, option => option.value);
-      console.log(selectedDimensions);
+    // function drawGraph() {
+    //   var selectedDimensions = Array.from(document.getElementById("dimensionSelectParaCoord").selectedOptions, option => option.value);
+    //   console.log(selectedDimensions);
 
-      // Filter the data to include only selected dimensions
-      var filteredCoffee = coffee.map(function (d) {
-        var filteredData = {};
-        selectedDimensions.forEach(function (dim) {
-          filteredData[dim] = d[dim];
-        });
-        return filteredData;
-      });
-      console.log(filteredCoffee);
-      clearPlot();
-      setupParallelCoordinates(filteredCoffee);
-      // Call the brush function to update the display (if needed)
-      brush(); // You can include this if brushing is necessary
-
-}
+    //   // Filter the data to include only selected dimensions
+    //   var filteredCoffee = coffee.map(function (d) {
+    //     var filteredData = {};
+    //     selectedDimensions.forEach(function (dim) {
+    //       filteredData[dim] = d[dim];
+    //     });
+    //     return filteredData;
+    //   });
+    //   console.log(filteredCoffee);
+    //   clearPlot();
+    //   setupParallelCoordinates(filteredCoffee);
+    //   // Call the brush function to update the display (if needed)
+    // //   brush(); // You can include this if brushing is necessary
+    //   filterData();
+    // }
 
 // Initial call to load CSV and populate the dropdown
 loadCSVAndPopulateDropdown();
