@@ -1,5 +1,5 @@
 // Code for ParaSet plot
-
+var allCoffee;
 var coffee;
 var selectedDimensions;
 var margin = {top: 0, right: 120, bottom: 50, left: 0},
@@ -181,6 +181,7 @@ function loadCSVAndPopulateDropdown() {
         }
 
         coffee = data; // Assign the data to the coffee variable
+        allCoffee = data;
 
         // Function to update the dropdown with column names
         function updateDimensionDropdown(columnNames) {
@@ -419,25 +420,36 @@ function setupParallelCoordinates(coffee) {
       // vis.datum(filteredDataToShow).call(chart);
     }
 
-    function filterData() {
+    function filterData(allData) {
         // Get the current brush extents
-        console.log(dimensions)
-        var actives = dimensions.filter(function (p) { return !y[p].brush.empty(); }),
-          extents = actives.map(function (p) { return y[p].brush.extent(); });
-        
-          foreground.style("display", function(d) {
-            return actives.every(function(p, i) {
-              return extents[i][0] <= d[p] && d[p] <= extents[i][1];
-            }) ? null : "none";
-          });
+        console.log("dim from filter data"+ dimensions)
+        console.log("dim from filter data"+ allData)
+        console.log("dim of parasets" + selectedDimensions)
+        combinedDim = dimensions.concat(selectedDimensions)
 
-        // Filter the data based on the brush extents
-        var filteredData = coffee.filter(function (d) {
-          return actives.every(function (p, i) {
-            return extents[i][0] <= d[p] && d[p] <= extents[i][1];
-          });
+
+        var actives = combinedDim.filter(function (p) {
+            // Check if y[p] exists and it has a brush property
+            return y[p] && !y[p].brush.empty();
         });
-        console.log(filteredData)
+
+        var extents = actives.map(function (p) {
+            return y[p].brush.extent(); // Ensure y[p] exists before accessing brush
+        });
+
+        foreground.style("display", function(d) {
+            return actives.every(function(p, i) {
+            return extents[i][0] <= d[p] && d[p] <= extents[i][1];
+            }) ? null : "none";
+        });
+        // Filter the data based on the brush extents
+        var filteredData = allCoffee.filter(function (d) {
+            console.log("coffee data" + allCoffee[0])
+            return actives.every(function (p, i) {
+            return extents[i][0] <= d[p] && d[p] <= extents[i][1];
+        });
+        });
+        console.log("filtered data from filter data function" + filteredData)
         // Update the parallel sets plot with the filtered data
         updateParallelSets(filteredData);
         makeChart(filteredData, selectedDimensions);
@@ -451,6 +463,13 @@ function setupParallelCoordinates(coffee) {
       function drawGraph() {
         var selectedDimensions = Array.from(document.getElementById("dimensionSelectParaCoord").selectedOptions, option => option.value);
         console.log(selectedDimensions);
+        var allData = coffee.map(function (d) {
+            var filteredData = {};
+            dimensions.forEach(function (dim) {
+              filteredData[dim] = d[dim];
+            });
+            return filteredData;
+          });
   
         // Filter the data to include only selected dimensions
         var filteredCoffee = coffee.map(function (d) {
@@ -465,7 +484,7 @@ function setupParallelCoordinates(coffee) {
         setupParallelCoordinates(filteredCoffee);
         // Call the brush function to update the display (if needed)
       //   brush(); // You can include this if brushing is necessary
-        filterData();
+        filterData(allData);
       }
     }
 
