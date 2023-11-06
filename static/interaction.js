@@ -3,8 +3,8 @@ var allCoffee;
 var coffee;
 var selectedDimensions;
 var margin = {top: 0, right: 120, bottom: 50, left: 0},
-    width = 1000 - margin.left - margin.right,
-    height = 1000 - margin.top - margin.bottom;
+    width = 1200 - margin.left - margin.right,
+    height = 1200 - margin.top - margin.bottom;
 
 
 var chart = d3.parsets()
@@ -17,7 +17,7 @@ var vis = d3.select("#paraSet").append("svg")
 .attr("width", width + margin.left + margin.right)
 .attr("height", height + margin.top + margin.bottom)
 .append("g")
-.attr("transform", "translate(0," + height + ")rotate(-90)");
+.attr("transform", "translate(0," + 1100 + ")rotate(-90)");
 
 
 d3.csv("static/test_categorical_data.csv", function(error, data){
@@ -381,7 +381,7 @@ function setupParallelCoordinates(coffee) {
         .attr("class", "data-point")
         .style("text-anchor", function (d) {
             // Alternate between "start" and "middle" based on the index
-            return d.index % 2 === 0 ? "start" : "middle";
+            return d.index % 2 === 0 ? "middle" : "middle";
         })
         .attr("x", function (d) {
             return position(d.dimension);

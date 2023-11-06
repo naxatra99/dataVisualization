@@ -260,7 +260,7 @@ function setupParallelCoordinates(coffee) {
         .attr("class", "data-point")
         .style("text-anchor", function (d) {
             // Alternate between "start" and "middle" based on the index
-            return d.index % 2 === 0 ? "start" : "middle";
+            return d.index % 2 === 0 ? "middle" : "middle";
         })
         .attr("x", function (d) {
             return position(d.dimension);
