@@ -23,5 +23,10 @@ for column in df.columns:
     # else:
         # print(f"{column} contains non-numerical (string) values.")
         
+# print(df)
+
+df.sample(1000)
+
 print(df)
+
 df.to_csv('static/test_categorical_data.csv', index=False)

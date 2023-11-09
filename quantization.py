@@ -58,6 +58,9 @@ for column in fields:
 # mca = mca.fit(df)
 
 print(df)
+
+df.sample(1000)
+
 # print(mca.column_coordinates(df))
 df.to_csv('static/test_continuous_data.csv', index=False)
 

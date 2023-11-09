@@ -1,1001 +1,1001 @@
-gender,race/ethnicity,parental level of education,lunch,test preparation course,math score binned,reading score binned,writing score binned
-female,group B,bachelor's degree,standard,none,Good,Good,Good
-female,group C,some college,standard,completed,Good,Best,Best
-female,group B,master's degree,standard,none,Best,Best,Best
-male,group A,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group C,some college,standard,none,Best,Best,Good
-female,group B,associate's degree,standard,none,Good,Best,Best
-female,group B,some college,standard,completed,Best,Best,Best
-male,group B,some college,free/reduced,none,Ok,Ok,Ok
-male,group D,high school,free/reduced,completed,Good,Good,Good
-female,group B,high school,free/reduced,none,Ok,Ok,Ok
-male,group C,associate's degree,standard,none,Ok,Ok,Ok
-male,group D,associate's degree,standard,none,Ok,Ok,Ok
-female,group B,high school,standard,none,Good,Best,Good
-male,group A,some college,standard,completed,Best,Good,Good
-female,group A,master's degree,standard,none,Ok,Ok,Ok
-female,group C,some high school,standard,none,Good,Good,Best
-male,group C,high school,standard,none,Best,Best,Best
-female,group B,some high school,free/reduced,none,Ok,Ok,Ok
-male,group C,master's degree,free/reduced,completed,Ok,Ok,Ok
-female,group C,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group D,high school,standard,none,Good,Good,Good
-female,group B,some college,free/reduced,completed,Good,Good,Good
-male,group D,some college,standard,none,Ok,Ok,Ok
-female,group C,some high school,standard,none,Good,Good,Good
-male,group D,bachelor's degree,free/reduced,completed,Best,Good,Best
-male,group A,master's degree,free/reduced,none,Good,Good,Good
-male,group B,some college,standard,none,Good,Ok,Ok
-female,group C,bachelor's degree,standard,none,Good,Good,Good
-male,group C,high school,standard,none,Good,Good,Good
-female,group D,master's degree,standard,none,Good,Good,Good
-female,group D,some college,standard,none,Good,Good,Good
-female,group B,some college,standard,none,Good,Good,Ok
-female,group E,master's degree,free/reduced,none,Ok,Good,Good
-male,group D,some college,standard,none,Ok,Ok,Ok
-male,group E,some college,standard,none,Best,Best,Best
-male,group E,associate's degree,standard,completed,Best,Best,Best
-female,group D,associate's degree,standard,none,Best,Best,Best
-female,group D,some high school,free/reduced,none,Ok,Good,Ok
-female,group D,associate's degree,free/reduced,completed,Best,Best,Best
-male,group B,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group C,associate's degree,free/reduced,none,Ok,Ok,Ok
-female,group C,associate's degree,standard,none,Ok,Good,Good
-female,group B,associate's degree,standard,none,Ok,Ok,Good
-male,group B,some college,free/reduced,completed,Ok,Good,Good
-female,group E,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group B,associate's degree,standard,none,Good,Ok,Ok
-female,group A,associate's degree,standard,completed,Ok,Good,Ok
-female,group C,high school,standard,none,Good,Good,Best
-female,group D,associate's degree,free/reduced,completed,Ok,Good,Best
-male,group C,high school,standard,completed,Best,Best,Best
-male,group E,some college,standard,none,Ok,Ok,Ok
-male,group E,associate's degree,free/reduced,completed,Best,Good,Good
-male,group C,some college,standard,none,Ok,Ok,Ok
-male,group D,high school,standard,none,Best,Best,Good
-female,group C,some high school,free/reduced,completed,Good,Best,Best
-female,group C,high school,free/reduced,none,Ok,Ok,Ok
-female,group E,associate's degree,standard,completed,Best,Best,Best
-male,group D,associate's degree,standard,none,Ok,Ok,Ok
-male,group D,some college,standard,completed,Ok,Ok,Ok
-female,group C,some high school,free/reduced,none,Ok,Ok,Ok
-male,group E,bachelor's degree,free/reduced,completed,Best,Good,Good
-male,group A,some high school,free/reduced,none,Ok,Ok,Ok
-male,group A,associate's degree,free/reduced,none,Good,Ok,Ok
-female,group C,associate's degree,standard,none,Good,Best,Good
-female,group D,some high school,standard,none,Ok,Ok,Ok
-male,group B,some high school,standard,none,Good,Good,Ok
-male,group D,some high school,free/reduced,none,Ok,Ok,Ok
-female,group C,some college,standard,none,Ok,Good,Good
-male,group B,associate's degree,free/reduced,none,Good,Ok,Ok
-female,group C,associate's degree,standard,none,Ok,Good,Ok
-female,group D,some college,free/reduced,completed,Ok,Ok,Good
-male,group D,some college,standard,completed,Good,Ok,Good
-female,group A,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group C,some high school,free/reduced,none,Good,Ok,Ok
-male,group C,some high school,standard,none,Ok,Ok,Ok
-male,group B,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group E,some high school,standard,none,Ok,Ok,Ok
-male,group A,bachelor's degree,standard,completed,Best,Best,Best
-female,group D,some high school,standard,completed,Good,Good,Good
-female,group E,master's degree,standard,none,Good,Good,Good
-female,group B,associate's degree,standard,none,Ok,Ok,Ok
-male,group B,high school,free/reduced,none,Ok,Ok,Ok
-male,group A,some college,free/reduced,completed,Ok,Ok,Ok
-male,group E,associate's degree,standard,none,Good,Good,Good
-male,group D,high school,free/reduced,none,Ok,Ok,Ok
-female,group C,some college,standard,none,Good,Best,Best
-female,group C,some college,free/reduced,none,Best,Best,Best
-female,group D,associate's degree,standard,none,Good,Good,Good
-female,group A,some college,standard,none,Ok,Good,Good
-female,group D,some high school,standard,none,Good,Best,Best
-female,group C,bachelor's degree,standard,none,Good,Good,Good
-male,group C,high school,free/reduced,none,Ok,Ok,Ok
-male,group C,high school,standard,none,Good,Best,Good
-male,group C,associate's degree,free/reduced,completed,Ok,Ok,Ok
-female,group B,some college,standard,none,Best,Best,Best
-male,group C,associate's degree,free/reduced,completed,Best,Best,Best
-male,group B,some high school,standard,completed,Good,Good,Ok
-female,group E,some college,standard,completed,Good,Good,Good
-female,group D,some college,free/reduced,none,Ok,Good,Ok
-female,group D,bachelor's degree,standard,none,Good,Good,Ok
-male,group B,some college,standard,none,Best,Good,Good
-male,group D,bachelor's degree,standard,completed,Good,Good,Good
-female,group D,associate's degree,standard,none,Best,Best,Best
-male,group B,high school,standard,completed,Ok,Ok,Ok
-male,group C,some college,standard,completed,Best,Best,Best
-female,group C,some college,standard,none,Ok,Good,Good
-female,group D,master's degree,standard,none,Best,Best,Best
-male,group E,associate's degree,standard,completed,Good,Ok,Good
-female,group B,associate's degree,free/reduced,none,Ok,Good,Good
-female,group B,some high school,standard,none,Good,Good,Good
-female,group D,associate's degree,free/reduced,completed,Best,Best,Best
-male,group C,high school,standard,none,Good,Ok,Ok
-male,group A,associate's degree,standard,none,Ok,Ok,Ok
-female,group D,some college,standard,none,Ok,Ok,Ok
-female,group E,bachelor's degree,standard,completed,Best,Best,Best
-male,group C,high school,standard,none,Best,Best,Good
-female,group B,bachelor's degree,free/reduced,none,Best,Best,Best
-female,group D,bachelor's degree,standard,none,Best,Best,Best
-female,group D,some high school,standard,none,Ok,Ok,Ok
-female,group C,some college,standard,none,Ok,Good,Good
-female,group C,bachelor's degree,standard,completed,Best,Best,Best
-male,group B,associate's degree,standard,completed,Best,Best,Best
-female,group C,some college,standard,completed,Best,Best,Best
-male,group D,high school,free/reduced,none,Good,Ok,Ok
-male,group E,some college,standard,none,Best,Best,Good
-female,group B,high school,standard,none,Best,Best,Best
-male,group B,some high school,standard,none,Good,Good,Good
-male,group D,some college,standard,completed,Good,Best,Good
-male,group D,master's degree,standard,none,Best,Best,Good
-female,group A,bachelor's degree,standard,none,Ok,Ok,Ok
-male,group D,master's degree,standard,none,Best,Best,Best
-male,group C,some high school,free/reduced,completed,Ok,Ok,Ok
-male,group E,some college,free/reduced,completed,Best,Good,Good
-female,group C,some college,standard,completed,Best,Best,Best
-male,group D,bachelor's degree,free/reduced,completed,Best,Best,Good
-male,group C,bachelor's degree,standard,none,Ok,Ok,Ok
-male,group B,some high school,standard,completed,Ok,Ok,Ok
-male,group E,high school,standard,none,Good,Ok,Ok
-female,group C,associate's degree,standard,none,Ok,Good,Good
-male,group D,some college,standard,completed,Good,Ok,Good
-female,group D,some high school,standard,none,Best,Good,Good
-female,group C,some college,free/reduced,none,Ok,Ok,Good
-female,group E,some college,free/reduced,completed,Ok,Ok,Ok
-male,group A,high school,standard,none,Ok,Ok,Ok
-male,group D,some college,standard,none,Best,Good,Best
-female,group C,some college,free/reduced,none,Ok,Ok,Ok
-male,group B,some high school,standard,none,Best,Best,Good
-male,group C,associate's degree,free/reduced,none,Good,Good,Good
-female,group D,bachelor's degree,standard,completed,Good,Good,Best
-male,group E,associate's degree,free/reduced,completed,Best,Best,Best
-male,group A,some high school,standard,completed,Good,Good,Good
-male,group A,bachelor's degree,standard,none,Best,Good,Good
-female,group B,associate's degree,standard,completed,Ok,Good,Good
-male,group D,bachelor's degree,standard,none,Ok,Ok,Ok
-male,group D,some high school,standard,none,Good,Good,Ok
-female,group C,some college,standard,completed,Good,Best,Best
-female,group E,high school,free/reduced,completed,Good,Good,Best
-male,group B,some college,free/reduced,none,Ok,Ok,Ok
-female,group B,associate's degree,standard,completed,Good,Best,Best
-male,group D,associate's degree,free/reduced,none,Good,Ok,Good
-male,group B,associate's degree,free/reduced,completed,Best,Best,Good
-female,group E,some college,free/reduced,completed,Best,Best,Best
-male,group B,master's degree,free/reduced,none,Ok,Ok,Ok
-male,group C,high school,standard,none,Ok,Ok,Ok
-female,group E,master's degree,standard,none,Best,Best,Best
-female,group C,bachelor's degree,standard,completed,Best,Best,Best
-male,group C,high school,free/reduced,completed,Ok,Ok,Ok
-female,group B,master's degree,free/reduced,completed,Ok,Good,Best
-female,group B,high school,standard,completed,Good,Best,Best
-female,group C,some college,free/reduced,completed,Good,Good,Good
-male,group A,high school,standard,completed,Good,Good,Good
-male,group E,some high school,standard,none,Best,Best,Best
-female,group D,some college,standard,none,Best,Best,Best
-female,group C,associate's degree,standard,none,Good,Good,Good
-female,group C,bachelor's degree,free/reduced,completed,Ok,Ok,Ok
-female,group C,master's degree,standard,completed,Best,Best,Best
-female,group B,high school,free/reduced,completed,Ok,Ok,Ok
-female,group C,associate's degree,standard,completed,Good,Best,Best
-female,group B,master's degree,free/reduced,completed,Ok,Good,Ok
-female,group D,some high school,standard,completed,Best,Best,Best
-male,group C,master's degree,free/reduced,completed,Good,Good,Good
-female,group C,some college,free/reduced,none,Ok,Good,Good
-female,group E,high school,standard,none,Ok,Ok,Ok
-female,group D,associate's degree,standard,none,Good,Good,Good
-male,group C,some high school,free/reduced,completed,Ok,Ok,Ok
-male,group C,associate's degree,free/reduced,completed,Good,Good,Good
-male,group E,high school,standard,none,Best,Good,Good
-male,group D,some high school,standard,completed,Good,Good,Good
-male,group B,some high school,free/reduced,none,Ok,Ok,Ok
-female,group C,bachelor's degree,standard,none,Best,Best,Best
-female,group E,associate's degree,standard,none,Good,Good,Good
-male,group D,some college,standard,completed,Best,Best,Best
-female,group B,some high school,standard,none,Good,Good,Good
-male,group D,some college,standard,completed,Best,Ok,Ok
-female,group C,master's degree,standard,completed,Good,Best,Best
-male,group D,associate's degree,standard,none,Good,Ok,Ok
-male,group C,some high school,free/reduced,completed,Ok,Good,Good
-male,group E,high school,free/reduced,none,Ok,Ok,Ok
-female,group B,some college,free/reduced,none,Ok,Ok,Ok
-female,group B,bachelor's degree,free/reduced,none,Best,Best,Best
-female,group C,associate's degree,standard,completed,Good,Best,Best
-female,group D,some college,free/reduced,none,Good,Best,Best
-male,group C,associate's degree,standard,none,Good,Best,Good
-female,group B,associate's degree,standard,none,Ok,Good,Good
-male,group C,some college,standard,none,Ok,Ok,Ok
-male,group D,some high school,standard,completed,Best,Good,Best
-male,group E,bachelor's degree,standard,none,Best,Ok,Ok
-male,group E,high school,standard,completed,Best,Best,Best
-female,group B,some college,free/reduced,none,Best,Best,Best
-female,group B,some college,free/reduced,none,Ok,Ok,Good
-male,group D,some high school,free/reduced,completed,Best,Best,Best
-male,group C,some college,free/reduced,none,Ok,Ok,Ok
-female,group C,high school,free/reduced,none,Ok,Ok,Ok
-male,group C,associate's degree,free/reduced,completed,Ok,Ok,Ok
-male,group E,high school,standard,completed,Best,Best,Best
-male,group B,some high school,standard,completed,Best,Best,Good
-female,group E,associate's degree,free/reduced,completed,Best,Best,Best
-female,group C,high school,free/reduced,none,Ok,Ok,Ok
-male,group B,high school,free/reduced,none,Good,Best,Good
-male,group B,some high school,standard,completed,Good,Ok,Ok
-female,group D,high school,standard,completed,Ok,Good,Good
-male,group B,associate's degree,standard,none,Best,Best,Good
-female,group C,some high school,free/reduced,none,Ok,Good,Ok
-male,group D,some high school,standard,none,Best,Best,Good
-female,group B,associate's degree,standard,completed,Ok,Good,Good
-female,group E,master's degree,free/reduced,none,Ok,Ok,Ok
-female,group C,some college,standard,none,Good,Good,Good
-male,group D,high school,standard,none,Ok,Ok,Ok
-male,group A,some high school,free/reduced,none,Good,Good,Good
-female,group C,some college,standard,completed,Best,Best,Best
-male,group D,some college,standard,none,Best,Good,Good
-male,group C,associate's degree,standard,none,Ok,Ok,Ok
-female,group B,bachelor's degree,standard,none,Good,Best,Best
-male,group E,some high school,standard,none,Best,Best,Best
-male,group C,bachelor's degree,standard,completed,Best,Best,Best
-male,group D,associate's degree,standard,none,Best,Good,Best
-male,group D,bachelor's degree,free/reduced,none,Good,Good,Good
-female,group D,some high school,standard,completed,Good,Ok,Good
-male,group B,some college,standard,none,Ok,Ok,Ok
-male,group C,associate's degree,standard,none,Best,Best,Best
-male,group D,high school,free/reduced,completed,Good,Good,Good
-female,group E,bachelor's degree,standard,none,Best,Best,Best
-female,group D,high school,standard,none,Ok,Ok,Ok
-male,group E,some college,standard,none,Ok,Ok,Ok
-male,group D,some high school,standard,none,Best,Good,Good
-male,group C,associate's degree,standard,none,Best,Good,Good
-male,group E,associate's degree,standard,none,Best,Good,Good
-female,group B,high school,standard,completed,Ok,Good,Good
-female,group B,high school,standard,none,Good,Good,Ok
-male,group C,high school,standard,none,Good,Ok,Ok
-male,group A,some high school,standard,completed,Ok,Ok,Ok
-female,group D,some college,free/reduced,none,Good,Best,Best
-female,group B,some high school,standard,completed,Ok,Good,Good
-male,group D,master's degree,standard,none,Best,Best,Good
-male,group D,high school,standard,none,Ok,Ok,Ok
-female,group E,some college,standard,none,Good,Good,Good
-female,group C,associate's degree,free/reduced,none,Good,Good,Good
-male,group C,associate's degree,standard,completed,Best,Best,Best
-female,group B,some college,standard,none,Good,Good,Best
-female,group C,master's degree,free/reduced,completed,Good,Best,Best
-female,group C,some high school,free/reduced,completed,Good,Best,Best
-male,group C,some college,standard,completed,Best,Best,Best
-female,group C,some high school,free/reduced,none,Ok,Ok,Ok
-female,group E,high school,standard,none,Best,Best,Best
-male,group D,high school,standard,none,Best,Good,Good
-male,group D,some high school,free/reduced,none,Ok,Ok,Ok
-female,group C,bachelor's degree,standard,none,Good,Good,Best
-female,group D,high school,standard,none,Good,Good,Best
-female,group D,associate's degree,standard,completed,Best,Best,Best
-female,group E,some college,free/reduced,none,Good,Good,Good
-male,group C,bachelor's degree,standard,none,Good,Ok,Ok
-male,group C,some college,standard,none,Ok,Ok,Ok
-female,group D,associate's degree,free/reduced,none,Ok,Ok,Ok
-female,group D,some college,standard,none,Good,Good,Good
-male,group B,some college,standard,completed,Best,Best,Best
-male,group C,bachelor's degree,standard,none,Best,Best,Good
-female,group C,some high school,standard,completed,Best,Best,Best
-female,group E,high school,standard,completed,Ok,Ok,Good
-female,group C,some high school,free/reduced,none,Good,Best,Best
-male,group B,bachelor's degree,free/reduced,none,Good,Ok,Ok
-male,group D,high school,standard,none,Ok,Ok,Ok
-male,group D,high school,standard,none,Ok,Ok,Ok
-female,group D,bachelor's degree,free/reduced,none,Good,Best,Best
-female,group D,some college,free/reduced,completed,Good,Best,Best
-female,group B,some high school,standard,none,Ok,Ok,Ok
-male,group B,associate's degree,standard,completed,Best,Best,Best
-male,group E,associate's degree,standard,completed,Best,Best,Best
-female,group B,some high school,standard,none,Good,Best,Best
-male,group B,bachelor's degree,free/reduced,none,Best,Good,Best
-male,group E,some high school,standard,completed,Best,Good,Best
-male,group C,associate's degree,standard,none,Best,Good,Good
-male,group D,some high school,standard,none,Best,Good,Good
-male,group C,some high school,standard,completed,Good,Ok,Ok
-female,group E,bachelor's degree,standard,none,Good,Good,Good
-male,group D,high school,free/reduced,completed,Best,Best,Best
-male,group B,associate's degree,free/reduced,none,Good,Ok,Ok
-male,group A,some high school,standard,completed,Ok,Ok,Ok
-male,group E,associate's degree,standard,completed,Good,Good,Good
-male,group C,high school,free/reduced,completed,Ok,Ok,Ok
-male,group D,associate's degree,free/reduced,none,Best,Best,Good
-male,group A,some college,free/reduced,completed,Best,Best,Best
-male,group D,some high school,free/reduced,none,Ok,Ok,Ok
-female,group C,associate's degree,standard,completed,Good,Best,Best
-male,group B,associate's degree,standard,none,Best,Good,Good
-female,group C,associate's degree,standard,completed,Best,Good,Best
-male,group A,some college,standard,none,Good,Good,Good
-male,group E,some college,standard,completed,Best,Best,Best
-male,group C,some high school,standard,none,Ok,Ok,Ok
-female,group B,associate's degree,free/reduced,none,Ok,Good,Good
-female,group D,high school,free/reduced,none,Ok,Ok,Ok
-female,group B,associate's degree,standard,none,Good,Good,Best
-male,group B,bachelor's degree,standard,none,Good,Ok,Ok
-male,group D,bachelor's degree,standard,completed,Good,Ok,Good
-female,group C,associate's degree,free/reduced,completed,Good,Good,Good
-female,group C,bachelor's degree,standard,completed,Ok,Good,Good
-male,group C,high school,standard,none,Good,Good,Good
-female,group D,master's degree,standard,completed,Best,Best,Best
-male,group C,associate's degree,standard,none,Best,Good,Best
-male,group B,bachelor's degree,standard,none,Good,Good,Good
-female,group D,associate's degree,free/reduced,none,Ok,Good,Good
-female,group C,high school,free/reduced,completed,Good,Best,Best
-female,group E,high school,standard,none,Best,Best,Best
-female,group C,some college,standard,none,Good,Best,Best
-female,group C,some high school,free/reduced,none,Ok,Ok,Ok
-female,group C,high school,free/reduced,none,Ok,Ok,Ok
-female,group C,some college,standard,none,Best,Best,Best
-male,group C,some college,standard,none,Good,Ok,Ok
-male,group A,some college,free/reduced,none,Ok,Ok,Ok
-male,group C,associate's degree,standard,completed,Best,Good,Best
-female,group B,some high school,standard,none,Ok,Ok,Ok
-male,group C,high school,standard,none,Good,Ok,Ok
-male,group C,associate's degree,standard,none,Ok,Ok,Ok
-male,group E,associate's degree,standard,completed,Good,Ok,Ok
-male,group B,associate's degree,standard,none,Best,Best,Best
-female,group C,bachelor's degree,standard,none,Best,Best,Best
-female,group B,some college,free/reduced,none,Good,Good,Good
-male,group D,some high school,standard,completed,Best,Good,Good
-male,group C,associate's degree,standard,none,Ok,Ok,Ok
-female,group B,some high school,free/reduced,none,Ok,Ok,Ok
-female,group D,some high school,free/reduced,completed,Ok,Ok,Ok
-male,group C,high school,free/reduced,none,Ok,Ok,Ok
-female,group C,high school,standard,none,Good,Good,Good
-female,group B,high school,standard,completed,Good,Good,Good
-male,group D,associate's degree,standard,completed,Good,Good,Good
-male,group D,some college,standard,none,Best,Good,Good
-female,group C,high school,standard,none,Good,Best,Good
-male,group B,some college,standard,none,Good,Ok,Ok
-female,group C,bachelor's degree,standard,completed,Best,Best,Best
-male,group D,high school,free/reduced,none,Best,Good,Good
-male,group E,associate's degree,standard,none,Best,Good,Best
-female,group B,bachelor's degree,standard,none,Ok,Good,Good
-male,group E,some college,standard,none,Good,Ok,Ok
-female,group C,some college,standard,completed,Good,Best,Best
-female,group C,associate's degree,standard,none,Ok,Ok,Ok
-female,group C,some college,standard,none,Ok,Good,Good
-female,group B,bachelor's degree,standard,none,Good,Good,Good
-male,group A,associate's degree,standard,none,Good,Ok,Ok
-female,group C,some college,free/reduced,completed,Ok,Good,Good
-male,group D,some college,free/reduced,none,Ok,Ok,Ok
-female,group D,some college,standard,none,Best,Best,Best
-female,group B,high school,standard,none,Ok,Ok,Ok
-male,group B,some high school,standard,completed,Best,Best,Best
-female,group C,some college,standard,none,Ok,Ok,Ok
-female,group D,some high school,free/reduced,none,Ok,Ok,Ok
-male,group C,some college,standard,none,Ok,Ok,Ok
-male,group A,bachelor's degree,free/reduced,completed,Ok,Ok,Ok
-male,group C,high school,standard,completed,Good,Ok,Ok
-male,group C,bachelor's degree,free/reduced,none,Good,Good,Ok
-female,group A,some high school,free/reduced,none,Ok,Good,Ok
-female,group D,some high school,standard,none,Good,Best,Best
-male,group E,some college,standard,none,Best,Best,Good
-female,group C,some college,free/reduced,completed,Ok,Good,Good
-male,group D,some high school,standard,none,Best,Good,Good
-female,group D,some college,standard,completed,Best,Best,Best
-female,group D,bachelor's degree,standard,none,Ok,Good,Good
-male,group E,associate's degree,free/reduced,none,Ok,Ok,Ok
-female,group D,some high school,standard,none,Best,Best,Best
-female,group D,master's degree,free/reduced,completed,Best,Best,Best
-female,group A,some high school,standard,none,Good,Best,Best
-male,group A,bachelor's degree,standard,none,Good,Good,Ok
-female,group B,associate's degree,standard,none,Best,Best,Best
-male,group C,associate's degree,standard,completed,Best,Best,Best
-male,group C,master's degree,free/reduced,none,Best,Best,Good
-female,group E,some high school,free/reduced,none,Ok,Ok,Ok
-female,group A,some high school,free/reduced,none,Ok,Ok,Ok
-female,group E,some college,standard,none,Good,Good,Good
-female,group E,bachelor's degree,standard,none,Good,Good,Good
-female,group C,associate's degree,free/reduced,none,Ok,Best,Good
-female,group D,high school,standard,none,Good,Good,Good
-male,group D,master's degree,standard,none,Good,Good,Good
-male,group E,some high school,free/reduced,completed,Good,Good,Ok
-female,group D,some college,standard,none,Best,Good,Best
-male,group E,some college,standard,none,Best,Good,Good
-male,group C,associate's degree,standard,completed,Ok,Ok,Ok
-female,group C,some high school,standard,completed,Good,Good,Best
-male,group A,high school,free/reduced,none,Ok,Ok,Ok
-female,group B,high school,free/reduced,none,Ok,Good,Good
-female,group C,associate's degree,standard,none,Best,Best,Best
-male,group B,some high school,standard,none,Best,Ok,Ok
-male,group D,some high school,standard,none,Ok,Ok,Ok
-female,group C,some high school,standard,completed,Ok,Ok,Good
-male,group A,some college,standard,none,Ok,Ok,Ok
-female,group A,some college,free/reduced,none,Ok,Good,Ok
-female,group D,high school,standard,completed,Best,Best,Best
-female,group C,high school,standard,none,Ok,Ok,Ok
-female,group C,some high school,standard,none,Good,Good,Good
-male,group B,associate's degree,standard,completed,Good,Good,Good
-female,group B,associate's degree,standard,none,Best,Best,Best
-female,group D,high school,free/reduced,completed,Ok,Ok,Ok
-male,group D,associate's degree,standard,completed,Best,Best,Best
-female,group D,master's degree,standard,completed,Good,Good,Good
-male,group E,some college,standard,completed,Best,Best,Best
-male,group D,associate's degree,standard,none,Good,Good,Ok
-male,group B,some high school,standard,completed,Good,Good,Good
-female,group C,bachelor's degree,free/reduced,completed,Ok,Good,Best
-male,group E,high school,standard,none,Best,Good,Good
-male,group C,bachelor's degree,standard,completed,Good,Good,Good
-male,group C,associate's degree,standard,none,Best,Good,Good
-male,group D,some college,standard,none,Good,Ok,Ok
-male,group E,high school,free/reduced,completed,Ok,Ok,Ok
-female,group C,associate's degree,free/reduced,completed,Best,Best,Best
-female,group D,high school,standard,completed,Ok,Ok,Good
-female,group D,master's degree,free/reduced,completed,Ok,Ok,Good
-female,group A,some high school,standard,completed,Ok,Best,Best
-male,group B,some college,free/reduced,none,Ok,Ok,Ok
-female,group C,some college,free/reduced,none,Good,Good,Ok
-male,group C,bachelor's degree,standard,none,Best,Best,Best
-male,group C,some high school,free/reduced,none,Good,Good,Good
-male,group A,some high school,free/reduced,none,Good,Ok,Ok
-male,group C,some high school,free/reduced,none,Good,Ok,Ok
-male,group C,associate's degree,free/reduced,none,Good,Good,Ok
-female,group C,high school,standard,none,Good,Good,Good
-male,group C,high school,standard,none,Good,Ok,Ok
-female,group A,some high school,free/reduced,none,Ok,Ok,Ok
-male,group C,some high school,standard,none,Good,Good,Good
-male,group C,some college,free/reduced,completed,Ok,Ok,Ok
-male,group D,associate's degree,standard,none,Best,Good,Good
-male,group D,associate's degree,free/reduced,none,Best,Good,Good
-male,group C,high school,standard,none,Good,Ok,Ok
-male,group D,some high school,standard,completed,Best,Best,Best
-female,group C,some college,standard,completed,Good,Best,Best
-female,group D,high school,standard,none,Best,Best,Best
-female,group A,some high school,free/reduced,none,Ok,Good,Good
-female,group B,associate's degree,standard,none,Good,Best,Best
-male,group A,some high school,free/reduced,none,Best,Best,Good
-female,group C,some high school,standard,completed,Good,Good,Best
-male,group D,some college,free/reduced,none,Good,Good,Ok
-male,group C,high school,standard,completed,Best,Best,Best
-male,group B,high school,standard,none,Ok,Ok,Ok
-male,group B,associate's degree,standard,none,Best,Good,Good
-female,group C,some college,free/reduced,completed,Good,Best,Best
-female,group E,some college,standard,none,Best,Best,Best
-female,group C,associate's degree,free/reduced,none,Good,Best,Good
-male,group C,some college,free/reduced,none,Good,Ok,Ok
-female,group C,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group C,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-female,group D,bachelor's degree,standard,none,Best,Best,Best
-male,group D,associate's degree,free/reduced,none,Ok,Ok,Ok
-female,group E,bachelor's degree,standard,none,Best,Best,Best
-male,group B,high school,standard,completed,Good,Good,Good
-male,group C,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-male,group B,some college,free/reduced,none,Ok,Ok,Ok
-female,group E,some college,standard,none,Good,Good,Best
-female,group C,some college,free/reduced,none,Best,Best,Best
-male,group A,bachelor's degree,standard,completed,Best,Ok,Ok
-female,group C,some college,standard,none,Best,Best,Best
-female,group D,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group A,high school,free/reduced,completed,Good,Good,Good
-female,group A,high school,free/reduced,completed,Best,Best,Best
-male,group C,some college,standard,none,Best,Good,Best
-female,group C,associate's degree,standard,completed,Best,Best,Best
-female,group C,high school,standard,none,Good,Good,Good
-female,group C,associate's degree,standard,completed,Good,Best,Best
-female,group D,some high school,standard,none,Ok,Good,Ok
-female,group B,associate's degree,standard,completed,Best,Best,Best
-female,group D,bachelor's degree,standard,completed,Good,Good,Best
-male,group E,bachelor's degree,standard,completed,Best,Ok,Good
-male,group D,associate's degree,standard,none,Best,Good,Good
-female,group D,master's degree,standard,none,Ok,Good,Good
-male,group E,associate's degree,standard,none,Best,Good,Good
-male,group B,high school,standard,completed,Good,Good,Good
-female,group D,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group C,some college,free/reduced,none,Good,Good,Ok
-male,group A,high school,standard,none,Ok,Ok,Ok
-female,group B,associate's degree,standard,none,Ok,Ok,Ok
-male,group C,high school,standard,none,Good,Good,Good
-male,group D,some college,free/reduced,none,Good,Ok,Ok
-female,group C,associate's degree,free/reduced,none,Ok,Good,Good
-male,group B,some high school,standard,completed,Good,Ok,Ok
-male,group A,associate's degree,free/reduced,completed,Best,Best,Best
-female,group A,associate's degree,free/reduced,none,Good,Best,Best
-female,group C,associate's degree,standard,none,Good,Good,Good
-female,group C,some college,standard,none,Best,Best,Best
-female,group C,bachelor's degree,standard,none,Best,Best,Best
-female,group B,high school,standard,none,Ok,Good,Good
-male,group D,high school,standard,completed,Good,Good,Good
-female,group C,some college,standard,none,Ok,Ok,Ok
-female,group D,some college,free/reduced,completed,Ok,Best,Best
-female,group B,some high school,standard,none,Good,Good,Good
-male,group E,some college,standard,none,Best,Good,Good
-female,group D,master's degree,standard,none,Best,Best,Best
-female,group B,associate's degree,standard,completed,Best,Best,Best
-male,group C,some college,free/reduced,none,Good,Ok,Ok
-female,group E,associate's degree,standard,completed,Best,Best,Best
-female,group D,master's degree,free/reduced,none,Ok,Ok,Ok
-female,group B,some high school,standard,none,Best,Best,Best
-male,group A,high school,standard,none,Good,Good,Good
-male,group B,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-male,group C,master's degree,standard,none,Best,Best,Best
-female,group C,bachelor's degree,standard,none,Best,Best,Best
-male,group D,some college,standard,none,Best,Good,Good
-male,group A,some high school,standard,none,Good,Ok,Ok
-male,group D,some high school,free/reduced,none,Good,Ok,Ok
-female,group B,some high school,standard,completed,Ok,Ok,Ok
-female,group B,master's degree,free/reduced,completed,Best,Best,Best
-female,group C,some high school,standard,completed,Best,Best,Best
-female,group D,some college,standard,none,Best,Best,Best
-female,group E,some college,standard,completed,Good,Good,Good
-female,group D,some high school,standard,completed,Good,Best,Best
-female,group B,high school,free/reduced,completed,Good,Best,Best
-male,group D,some college,standard,none,Good,Ok,Ok
-female,group C,associate's degree,standard,none,Best,Best,Best
-male,group D,bachelor's degree,standard,none,Good,Ok,Ok
-male,group C,master's degree,free/reduced,none,Ok,Ok,Ok
-male,group C,high school,standard,completed,Ok,Ok,Ok
-male,group E,some college,standard,none,Good,Ok,Ok
-male,group C,some high school,free/reduced,completed,Ok,Ok,Ok
-female,group C,high school,free/reduced,none,Ok,Ok,Ok
-female,group D,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-female,group C,associate's degree,standard,none,Good,Good,Good
-female,group C,associate's degree,standard,completed,Good,Good,Good
-female,group C,some high school,standard,none,Ok,Ok,Ok
-male,group E,associate's degree,standard,completed,Good,Ok,Ok
-female,group E,associate's degree,standard,completed,Best,Best,Best
-male,group B,high school,standard,completed,Good,Good,Good
-female,group C,bachelor's degree,free/reduced,completed,Good,Best,Best
-male,group C,associate's degree,standard,completed,Ok,Ok,Ok
-female,group D,high school,standard,none,Ok,Good,Ok
-male,group E,bachelor's degree,standard,completed,Best,Good,Good
-male,group A,associate's degree,standard,completed,Best,Best,Best
-male,group C,high school,standard,completed,Best,Good,Good
-male,group D,associate's degree,free/reduced,completed,Best,Best,Best
-female,group C,associate's degree,standard,none,Best,Best,Best
-female,group D,associate's degree,standard,none,Best,Best,Best
-female,group D,master's degree,standard,none,Good,Ok,Good
-male,group E,some high school,free/reduced,completed,Best,Best,Best
-female,group A,some high school,standard,completed,Best,Best,Best
-male,group C,high school,standard,completed,Good,Good,Good
-female,group C,high school,free/reduced,none,Good,Good,Good
-male,group C,master's degree,standard,none,Best,Good,Good
-male,group C,some high school,free/reduced,none,Best,Good,Good
-male,group B,bachelor's degree,free/reduced,completed,Best,Best,Best
-female,group B,associate's degree,standard,none,Ok,Ok,Ok
-male,group D,some college,free/reduced,none,Best,Ok,Good
-male,group E,associate's degree,standard,none,Ok,Ok,Ok
-female,group C,some college,free/reduced,none,Ok,Ok,Ok
-female,group C,associate's degree,standard,completed,Ok,Good,Best
-male,group C,master's degree,free/reduced,none,Good,Good,Good
-female,group B,associate's degree,free/reduced,none,Ok,Good,Good
-male,group D,some high school,standard,none,Good,Good,Ok
-female,group D,some college,standard,completed,Best,Good,Best
-female,group C,some college,standard,none,Good,Good,Good
-male,group C,bachelor's degree,standard,completed,Best,Best,Best
-female,group D,some college,free/reduced,completed,Good,Best,Best
-male,group B,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-male,group B,associate's degree,standard,none,Ok,Ok,Ok
-female,group E,bachelor's degree,free/reduced,completed,Best,Best,Best
-female,group D,master's degree,free/reduced,completed,Good,Good,Best
-male,group B,high school,free/reduced,none,Good,Ok,Ok
-male,group D,bachelor's degree,free/reduced,none,Good,Good,Good
-male,group B,some college,standard,completed,Good,Good,Good
-male,group A,bachelor's degree,standard,none,Best,Best,Best
-female,group C,some college,standard,none,Ok,Ok,Ok
-female,group C,high school,free/reduced,completed,Ok,Good,Good
-female,group E,high school,standard,none,Best,Best,Good
-male,group A,associate's degree,free/reduced,completed,Ok,Ok,Ok
-male,group A,some college,standard,completed,Good,Ok,Ok
-female,group B,high school,standard,none,Best,Best,Best
-female,group B,some college,free/reduced,completed,Ok,Ok,Ok
-female,group D,master's degree,standard,none,Ok,Ok,Good
-female,group D,some high school,standard,none,Best,Best,Best
-female,group E,some high school,standard,none,Best,Best,Best
-female,group D,bachelor's degree,free/reduced,none,Good,Good,Best
-female,group D,associate's degree,standard,completed,Good,Good,Best
-female,group D,some college,standard,none,Good,Best,Best
-female,group C,associate's degree,standard,none,Good,Good,Best
-female,group A,high school,standard,none,Ok,Good,Good
-female,group C,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-female,group C,some college,standard,none,Ok,Good,Good
-female,group A,some high school,standard,none,Ok,Good,Good
-male,group C,some college,free/reduced,none,Ok,Ok,Ok
-male,group A,some high school,standard,none,Good,Ok,Ok
-male,group E,bachelor's degree,standard,none,Good,Good,Good
-female,group E,high school,standard,none,Best,Good,Good
-female,group C,bachelor's degree,standard,completed,Best,Best,Best
-female,group C,bachelor's degree,standard,completed,Ok,Best,Good
-male,group B,high school,free/reduced,none,Ok,Ok,Ok
-male,group A,some high school,standard,none,Ok,Ok,Ok
-female,group D,high school,standard,none,Good,Best,Good
-female,group D,some high school,standard,none,Good,Best,Best
-female,group D,master's degree,standard,none,Ok,Ok,Good
-female,group C,high school,standard,none,Ok,Ok,Ok
-female,group E,some college,standard,none,Best,Best,Best
-male,group D,high school,free/reduced,none,Ok,Ok,Ok
-male,group D,master's degree,free/reduced,completed,Best,Best,Best
-male,group C,some high school,standard,none,Best,Good,Ok
-female,group C,associate's degree,standard,none,Best,Best,Best
-female,group C,master's degree,free/reduced,none,Ok,Ok,Ok
-female,group E,some college,standard,none,Good,Good,Ok
-female,group B,associate's degree,standard,none,Ok,Ok,Good
-male,group D,some college,free/reduced,completed,Good,Ok,Good
-female,group C,some college,standard,none,Ok,Ok,Good
-male,group C,bachelor's degree,standard,completed,Best,Best,Best
-female,group C,associate's degree,standard,none,Good,Best,Good
-female,group A,associate's degree,standard,none,Best,Best,Best
-female,group C,high school,standard,none,Ok,Good,Good
-female,group E,bachelor's degree,standard,none,Ok,Ok,Ok
-male,group D,bachelor's degree,standard,none,Best,Best,Best
-male,group D,master's degree,standard,none,Best,Best,Best
-male,group C,associate's degree,free/reduced,completed,Good,Good,Good
-female,group C,high school,free/reduced,none,Ok,Ok,Ok
-male,group B,bachelor's degree,free/reduced,none,Good,Ok,Ok
-male,group C,high school,free/reduced,completed,Ok,Ok,Ok
-male,group A,some college,standard,completed,Best,Best,Best
-female,group E,bachelor's degree,free/reduced,none,Good,Ok,Ok
-male,group D,some college,standard,completed,Best,Best,Best
-male,group B,associate's degree,free/reduced,completed,Good,Good,Good
-male,group D,associate's degree,standard,none,Good,Ok,Ok
-male,group D,some college,free/reduced,none,Ok,Ok,Ok
-female,group C,some high school,standard,completed,Ok,Ok,Ok
-male,group D,some college,standard,none,Good,Good,Good
-male,group B,high school,standard,none,Best,Ok,Good
-female,group B,bachelor's degree,standard,completed,Good,Good,Best
-female,group C,high school,standard,none,Best,Best,Best
-male,group D,some high school,standard,none,Best,Best,Best
-male,group A,high school,standard,none,Good,Good,Good
-female,group B,high school,free/reduced,completed,Good,Best,Best
-female,group D,some high school,standard,completed,Best,Best,Best
-male,group E,some college,standard,none,Best,Good,Good
-female,group D,associate's degree,standard,none,Best,Good,Good
-male,group D,high school,standard,none,Ok,Ok,Ok
-female,group D,associate's degree,free/reduced,completed,Best,Best,Best
-female,group B,some high school,free/reduced,none,Good,Best,Best
-female,group E,high school,standard,completed,Best,Best,Best
-male,group B,high school,standard,none,Good,Good,Ok
-female,group B,bachelor's degree,standard,completed,Good,Best,Best
-female,group D,associate's degree,standard,none,Ok,Good,Good
-female,group E,high school,free/reduced,none,Good,Ok,Good
-female,group B,high school,standard,none,Ok,Ok,Ok
-female,group D,some college,standard,completed,Good,Best,Best
-male,group C,some high school,free/reduced,completed,Ok,Ok,Ok
-female,group A,high school,standard,completed,Good,Best,Best
-female,group D,some college,standard,completed,Best,Best,Best
-female,group A,associate's degree,standard,completed,Good,Good,Good
-female,group B,some high school,standard,none,Good,Best,Best
-female,group B,some college,standard,none,Good,Good,Good
-male,group C,associate's degree,free/reduced,none,Best,Good,Good
-male,group D,some high school,standard,none,Good,Good,Ok
-female,group D,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group D,associate's degree,standard,none,Best,Best,Best
-male,group C,some college,free/reduced,none,Best,Best,Good
-male,group C,some high school,standard,none,Good,Good,Good
-female,group D,some college,free/reduced,none,Ok,Good,Good
-female,group C,high school,standard,none,Good,Good,Good
-male,group D,associate's degree,standard,none,Best,Ok,Good
-female,group C,some high school,free/reduced,completed,Ok,Ok,Ok
-female,group C,some college,free/reduced,completed,Good,Good,Good
-female,group B,bachelor's degree,free/reduced,none,Best,Best,Best
-male,group C,some college,standard,none,Good,Good,Ok
-male,group D,associate's degree,standard,completed,Best,Good,Best
-female,group C,high school,free/reduced,none,Good,Good,Good
-male,group D,associate's degree,free/reduced,none,Ok,Ok,Ok
-female,group C,some college,standard,none,Good,Best,Best
-female,group C,associate's degree,standard,completed,Good,Best,Best
-female,group D,high school,standard,completed,Good,Best,Best
-female,group B,some college,standard,completed,Ok,Good,Good
-female,group E,some college,standard,completed,Good,Best,Best
-female,group C,some high school,standard,completed,Good,Best,Best
-male,group D,associate's degree,free/reduced,none,Best,Good,Best
-male,group D,some college,free/reduced,none,Good,Ok,Ok
-female,group D,high school,standard,none,Good,Good,Good
-male,group B,high school,standard,none,Ok,Good,Ok
-male,group B,high school,standard,none,Good,Ok,Ok
-female,group C,some high school,free/reduced,completed,Ok,Ok,Ok
-male,group B,some college,standard,completed,Good,Good,Good
-female,group E,master's degree,standard,completed,Best,Best,Best
-male,group E,some college,standard,completed,Best,Good,Good
-male,group D,associate's degree,free/reduced,none,Best,Best,Good
-male,group A,high school,free/reduced,none,Ok,Ok,Ok
-male,group E,some college,free/reduced,none,Best,Best,Best
-female,group C,associate's degree,standard,none,Ok,Ok,Ok
-female,group E,associate's degree,free/reduced,none,Good,Good,Best
-female,group C,bachelor's degree,free/reduced,completed,Good,Good,Best
-female,group D,associate's degree,standard,none,Best,Best,Good
-female,group C,some high school,standard,none,Ok,Ok,Ok
-female,group D,some college,free/reduced,none,Best,Best,Best
-female,group C,associate's degree,standard,completed,Best,Best,Best
-female,group A,bachelor's degree,standard,none,Ok,Good,Good
-female,group D,associate's degree,standard,completed,Ok,Best,Best
-male,group C,high school,free/reduced,none,Good,Good,Ok
-female,group E,bachelor's degree,standard,completed,Best,Best,Best
-female,group B,some high school,standard,none,Ok,Good,Good
-male,group A,bachelor's degree,standard,completed,Best,Best,Best
-female,group D,some college,standard,none,Good,Good,Good
-female,group B,some high school,free/reduced,completed,Ok,Ok,Good
-male,group A,bachelor's degree,free/reduced,none,Good,Good,Good
-male,group D,high school,standard,none,Ok,Ok,Ok
-male,group C,some college,standard,none,Good,Ok,Ok
-male,group D,high school,standard,none,Best,Best,Best
-female,group D,associate's degree,free/reduced,completed,Ok,Ok,Ok
-male,group C,some college,standard,completed,Best,Best,Best
-female,group E,some high school,standard,completed,Best,Best,Best
-female,group D,some college,standard,none,Best,Best,Best
-male,group D,master's degree,standard,none,Best,Best,Best
-female,group B,some high school,standard,completed,Ok,Good,Good
-female,group B,associate's degree,free/reduced,completed,Best,Best,Best
-male,group C,associate's degree,standard,completed,Good,Best,Good
-female,group C,associate's degree,standard,completed,Best,Best,Best
-female,group C,high school,standard,none,Best,Good,Good
-male,group E,associate's degree,free/reduced,completed,Best,Good,Best
-female,group C,some college,free/reduced,none,Good,Good,Good
-male,group D,some high school,free/reduced,completed,Ok,Ok,Ok
-female,group B,some high school,free/reduced,completed,Best,Best,Best
-male,group C,high school,standard,none,Ok,Ok,Ok
-male,group B,some college,standard,none,Ok,Ok,Ok
-male,group E,some college,standard,completed,Best,Good,Good
-female,group E,associate's degree,standard,completed,Good,Good,Best
-male,group E,some high school,standard,completed,Good,Ok,Ok
-female,group D,high school,free/reduced,none,Good,Best,Best
-male,group C,some college,standard,none,Ok,Ok,Ok
-female,group B,associate's degree,free/reduced,completed,Good,Best,Best
-male,group A,some high school,free/reduced,none,Ok,Ok,Ok
-female,group C,some college,standard,completed,Best,Best,Best
-male,group D,some high school,standard,none,Ok,Ok,Ok
-female,group E,some college,free/reduced,none,Ok,Ok,Ok
-male,group C,master's degree,standard,none,Good,Ok,Ok
-male,group C,associate's degree,standard,none,Best,Best,Best
-female,group B,some college,free/reduced,completed,Ok,Good,Good
-male,group D,associate's degree,standard,none,Best,Good,Good
-male,group C,high school,free/reduced,none,Good,Ok,Ok
-male,group D,bachelor's degree,standard,none,Best,Good,Good
-female,group A,associate's degree,free/reduced,none,Ok,Ok,Ok
-female,group C,high school,standard,none,Best,Best,Best
-female,group C,associate's degree,standard,completed,Ok,Good,Good
-male,group B,some college,free/reduced,none,Ok,Ok,Ok
-male,group D,associate's degree,standard,none,Good,Best,Good
-male,group D,high school,standard,none,Good,Good,Good
-male,group C,some college,standard,none,Good,Good,Good
-female,group C,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-male,group B,some college,standard,completed,Best,Best,Best
-male,group D,some high school,standard,completed,Good,Good,Good
-male,group E,some college,standard,none,Good,Good,Good
-male,group C,master's degree,free/reduced,completed,Best,Best,Good
-female,group C,some high school,standard,completed,Best,Best,Best
-male,group C,associate's degree,free/reduced,none,Ok,Ok,Ok
-female,group E,associate's degree,standard,none,Best,Best,Best
-male,group D,some college,standard,none,Ok,Ok,Ok
-male,group E,bachelor's degree,free/reduced,completed,Good,Good,Good
-female,group D,some college,free/reduced,completed,Ok,Ok,Good
-male,group B,some college,standard,completed,Good,Best,Best
-female,group C,high school,free/reduced,none,Ok,Good,Good
-female,group D,some high school,standard,none,Ok,Ok,Ok
-male,group D,some high school,standard,completed,Best,Best,Best
-female,group B,high school,standard,none,Good,Ok,Good
-male,group D,some college,standard,none,Ok,Ok,Ok
-female,group B,high school,standard,none,Best,Good,Good
-female,group C,high school,standard,completed,Ok,Good,Best
-male,group B,high school,standard,completed,Best,Ok,Ok
-female,group D,some high school,standard,none,Good,Good,Good
-male,group A,some college,free/reduced,none,Ok,Ok,Ok
-male,group B,high school,standard,none,Ok,Ok,Ok
-male,group D,bachelor's degree,standard,none,Best,Good,Good
-female,group B,some high school,free/reduced,completed,Ok,Good,Good
-female,group C,bachelor's degree,free/reduced,none,Good,Best,Best
-male,group B,some college,standard,none,Good,Good,Ok
-female,group B,some high school,free/reduced,none,Ok,Ok,Ok
-female,group B,high school,standard,none,Good,Good,Good
-female,group C,some college,free/reduced,none,Ok,Ok,Ok
-female,group A,some college,standard,completed,Good,Best,Best
-male,group E,associate's degree,standard,completed,Best,Best,Best
-female,group D,associate's degree,free/reduced,none,Ok,Ok,Ok
-female,group B,master's degree,standard,none,Best,Best,Best
-female,group B,high school,free/reduced,completed,Best,Best,Best
-female,group C,associate's degree,standard,completed,Ok,Ok,Ok
-male,group C,bachelor's degree,standard,completed,Best,Best,Best
-female,group B,some high school,standard,completed,Ok,Ok,Ok
-female,group E,some high school,free/reduced,none,Good,Best,Best
-female,group B,some college,standard,none,Ok,Ok,Ok
-male,group C,associate's degree,free/reduced,none,Good,Good,Ok
-female,group C,master's degree,free/reduced,none,Ok,Good,Ok
-female,group B,high school,standard,none,Ok,Ok,Ok
-female,group D,some college,free/reduced,none,Ok,Good,Good
-male,group D,high school,free/reduced,none,Good,Good,Good
-male,group E,some high school,standard,completed,Best,Best,Best
-female,group B,high school,standard,none,Ok,Ok,Ok
-female,group E,associate's degree,free/reduced,completed,Ok,Good,Good
-male,group D,high school,standard,none,Good,Good,Good
-female,group E,associate's degree,free/reduced,none,Good,Best,Best
-male,group E,some college,standard,none,Good,Ok,Ok
-female,group C,associate's degree,standard,none,Ok,Ok,Ok
-male,group C,some high school,standard,completed,Good,Good,Good
-male,group C,some high school,standard,completed,Best,Best,Good
-female,group E,associate's degree,standard,none,Best,Best,Best
-female,group B,some college,standard,none,Best,Best,Best
-female,group C,some college,standard,none,Good,Good,Best
-male,group A,some college,free/reduced,none,Best,Best,Good
-female,group D,some college,free/reduced,none,Good,Good,Good
-female,group E,high school,free/reduced,none,Ok,Ok,Ok
-male,group C,high school,standard,none,Best,Good,Good
-male,group B,bachelor's degree,standard,none,Ok,Ok,Ok
-male,group A,some high school,standard,none,Ok,Ok,Ok
-male,group A,high school,free/reduced,none,Ok,Ok,Ok
-female,group C,master's degree,standard,completed,Ok,Good,Good
-male,group E,some high school,standard,completed,Best,Best,Best
-female,group C,high school,standard,none,Good,Best,Best
-male,group B,some high school,standard,completed,Best,Best,Best
-female,group A,bachelor's degree,standard,none,Ok,Ok,Good
-male,group D,bachelor's degree,free/reduced,completed,Good,Good,Best
-female,group B,high school,free/reduced,none,Ok,Good,Good
-female,group C,some high school,standard,none,Best,Best,Best
-female,group A,some high school,standard,completed,Best,Best,Best
-female,group D,bachelor's degree,free/reduced,none,Best,Best,Best
-male,group E,some college,free/reduced,completed,Ok,Ok,Ok
-female,group B,high school,free/reduced,none,Good,Best,Best
-female,group C,some high school,free/reduced,none,Ok,Ok,Ok
-male,group C,high school,standard,none,Good,Good,Ok
-female,group C,associate's degree,free/reduced,completed,Ok,Good,Good
-female,group C,some high school,standard,none,Good,Good,Best
-female,group D,some high school,free/reduced,completed,Good,Best,Best
-male,group B,some high school,standard,none,Good,Ok,Ok
-female,group A,some college,free/reduced,none,Good,Ok,Ok
-female,group C,bachelor's degree,free/reduced,completed,Best,Best,Best
-male,group A,bachelor's degree,standard,none,Good,Ok,Ok
-female,group B,high school,standard,completed,Best,Best,Best
-male,group B,some college,standard,none,Ok,Ok,Ok
-female,group C,high school,standard,completed,Ok,Good,Good
-male,group E,high school,standard,none,Good,Good,Ok
-female,group A,high school,standard,completed,Best,Best,Best
-male,group B,associate's degree,free/reduced,completed,Ok,Ok,Ok
-female,group C,associate's degree,standard,none,Good,Best,Good
-female,group D,high school,free/reduced,none,Ok,Ok,Ok
-male,group C,some high school,standard,none,Good,Ok,Ok
-female,group B,high school,free/reduced,completed,Ok,Ok,Ok
-male,group B,some college,free/reduced,completed,Best,Best,Best
-female,group D,some high school,free/reduced,completed,Ok,Good,Good
-male,group E,master's degree,standard,none,Best,Best,Best
-male,group C,master's degree,standard,completed,Best,Best,Best
-male,group D,high school,standard,none,Good,Ok,Ok
-female,group C,high school,standard,none,Ok,Good,Good
-male,group D,associate's degree,standard,none,Best,Good,Good
-male,group C,master's degree,standard,none,Good,Good,Good
-female,group A,high school,standard,none,Good,Good,Good
-female,group E,some college,standard,none,Best,Best,Best
-male,group E,some high school,standard,none,Best,Good,Ok
-male,group C,some high school,standard,none,Good,Good,Ok
-female,group B,bachelor's degree,standard,none,Best,Best,Best
-male,group B,some college,free/reduced,none,Best,Good,Good
-female,group C,bachelor's degree,standard,none,Good,Best,Best
-male,group B,high school,standard,completed,Ok,Ok,Ok
-male,group C,associate's degree,free/reduced,none,Best,Good,Good
-female,group C,associate's degree,standard,none,Ok,Ok,Ok
-female,group E,master's degree,free/reduced,none,Best,Best,Best
-male,group D,bachelor's degree,free/reduced,completed,Ok,Ok,Ok
-female,group C,some college,standard,completed,Good,Good,Best
-male,group C,associate's degree,standard,none,Best,Best,Best
-male,group D,some college,standard,completed,Best,Best,Best
-male,group C,high school,free/reduced,none,Ok,Ok,Ok
-male,group B,associate's degree,standard,none,Good,Ok,Ok
-male,group E,associate's degree,free/reduced,completed,Best,Good,Good
-male,group C,associate's degree,free/reduced,none,Ok,Ok,Ok
-male,group B,high school,standard,none,Ok,Ok,Ok
-female,group C,some college,standard,completed,Good,Good,Best
-male,group B,associate's degree,standard,completed,Best,Best,Best
-male,group E,associate's degree,free/reduced,none,Best,Best,Best
-female,group C,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-male,group C,some college,free/reduced,none,Best,Good,Good
-male,group D,some college,standard,none,Best,Best,Best
-male,group C,some high school,standard,none,Ok,Ok,Ok
-female,group D,some high school,standard,none,Ok,Good,Best
-female,group D,associate's degree,standard,none,Good,Good,Good
-male,group C,bachelor's degree,standard,completed,Good,Good,Good
-female,group E,bachelor's degree,standard,completed,Good,Good,Good
-female,group B,high school,free/reduced,none,Good,Good,Good
-male,group D,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-female,group E,associate's degree,standard,none,Ok,Ok,Ok
-female,group C,associate's degree,standard,completed,Good,Good,Best
-female,group E,associate's degree,standard,completed,Best,Best,Best
-male,group C,high school,free/reduced,none,Ok,Good,Ok
-female,group D,some college,free/reduced,none,Good,Good,Good
-male,group D,high school,free/reduced,none,Ok,Ok,Ok
-female,group E,some college,standard,completed,Best,Best,Best
-female,group E,associate's degree,standard,none,Best,Best,Best
-female,group A,master's degree,free/reduced,none,Ok,Good,Good
-male,group D,some high school,standard,completed,Best,Good,Good
-female,group E,associate's degree,standard,none,Ok,Ok,Good
-female,group E,some high school,free/reduced,none,Ok,Ok,Ok
-male,group B,high school,free/reduced,none,Ok,Ok,Ok
-female,group B,some high school,free/reduced,completed,Good,Best,Best
-male,group D,associate's degree,standard,completed,Good,Ok,Good
-female,group D,some high school,standard,completed,Good,Best,Best
-male,group D,master's degree,standard,none,Best,Best,Best
-female,group C,master's degree,standard,none,Good,Best,Good
-female,group A,high school,free/reduced,completed,Ok,Ok,Ok
-female,group D,bachelor's degree,free/reduced,completed,Best,Best,Best
-female,group D,some high school,free/reduced,none,Good,Best,Best
-male,group D,some college,standard,none,Best,Best,Best
-male,group B,high school,standard,none,Ok,Ok,Ok
-female,group D,some college,standard,completed,Best,Best,Best
-female,group C,bachelor's degree,free/reduced,none,Good,Good,Good
-male,group E,bachelor's degree,standard,completed,Good,Good,Good
-male,group D,bachelor's degree,free/reduced,none,Ok,Ok,Ok
-female,group A,some college,standard,none,Good,Best,Best
-female,group C,bachelor's degree,standard,completed,Ok,Ok,Good
-female,group C,bachelor's degree,free/reduced,completed,Ok,Ok,Good
-female,group B,associate's degree,free/reduced,none,Ok,Ok,Ok
-female,group E,some college,standard,none,Good,Good,Good
-male,group E,bachelor's degree,standard,completed,Best,Best,Best
-female,group C,high school,standard,none,Ok,Ok,Ok
-female,group C,associate's degree,standard,completed,Ok,Best,Best
-male,group B,some college,standard,completed,Best,Best,Best
-male,group D,high school,free/reduced,none,Good,Good,Good
-female,group C,high school,free/reduced,none,Ok,Ok,Ok
-male,group D,high school,standard,none,Good,Good,Good
-female,group B,associate's degree,free/reduced,none,Ok,Good,Good
-male,group D,high school,free/reduced,none,Best,Good,Good
-male,group E,some high school,standard,completed,Best,Good,Ok
-male,group E,associate's degree,free/reduced,none,Good,Ok,Ok
-female,group D,high school,free/reduced,completed,Good,Ok,Good
-male,group E,associate's degree,free/reduced,completed,Ok,Ok,Ok
-female,group C,some high school,free/reduced,none,Ok,Ok,Ok
-male,group C,some college,free/reduced,completed,Good,Good,Good
-male,group D,some college,free/reduced,none,Good,Ok,Ok
-male,group D,associate's degree,free/reduced,completed,Good,Good,Good
-male,group C,bachelor's degree,free/reduced,completed,Good,Good,Good
-male,group C,associate's degree,standard,completed,Best,Best,Best
-male,group D,some college,free/reduced,none,Good,Ok,Ok
-male,group A,associate's degree,standard,none,Good,Ok,Ok
-female,group E,high school,free/reduced,none,Ok,Ok,Ok
-male,group D,some college,standard,completed,Best,Best,Best
-male,group D,some high school,standard,completed,Best,Good,Good
-male,group C,master's degree,free/reduced,completed,Good,Good,Good
-female,group D,master's degree,standard,none,Best,Best,Best
-male,group C,high school,standard,none,Best,Good,Good
-male,group A,some high school,free/reduced,completed,Good,Ok,Ok
-female,group B,high school,standard,none,Ok,Good,Ok
-female,group C,associate's degree,standard,none,Ok,Ok,Ok
-male,group B,high school,standard,none,Best,Best,Best
-female,group D,some college,free/reduced,none,Ok,Ok,Ok
-male,group B,some high school,free/reduced,completed,Ok,Ok,Ok
-female,group E,high school,free/reduced,completed,Ok,Good,Good
-male,group E,high school,standard,none,Best,Good,Good
-female,group D,some college,standard,completed,Best,Best,Best
-female,group E,some high school,free/reduced,none,Best,Good,Good
-male,group C,high school,standard,completed,Ok,Ok,Ok
-female,group C,some college,standard,none,Good,Good,Good
-male,group E,associate's degree,standard,none,Good,Ok,Ok
-male,group C,some college,standard,none,Best,Best,Best
-female,group D,master's degree,standard,none,Best,Best,Best
-female,group D,high school,standard,none,Ok,Ok,Ok
-male,group C,high school,standard,none,Best,Best,Good
-female,group A,some college,standard,none,Ok,Ok,Good
-female,group D,some high school,free/reduced,none,Ok,Ok,Ok
-female,group E,associate's degree,standard,none,Best,Best,Best
-female,group C,some high school,free/reduced,completed,Good,Good,Good
-male,group D,some college,standard,none,Good,Ok,Ok
-female,group D,some college,standard,none,Good,Good,Good
-male,group A,some high school,standard,completed,Good,Good,Good
-male,group C,some college,standard,none,Good,Ok,Ok
-female,group E,associate's degree,standard,none,Good,Good,Good
-female,group B,bachelor's degree,standard,none,Best,Best,Best
-female,group D,bachelor's degree,standard,none,Best,Best,Best
-male,group C,some high school,standard,completed,Best,Good,Good
-female,group A,high school,free/reduced,completed,Ok,Ok,Ok
-female,group D,some college,free/reduced,none,Ok,Good,Ok
-female,group A,some college,standard,none,Ok,Ok,Good
-female,group C,some college,standard,completed,Good,Best,Best
-male,group B,some college,free/reduced,completed,Ok,Ok,Ok
-male,group C,associate's degree,standard,none,Good,Good,Ok
-male,group D,high school,standard,completed,Ok,Ok,Ok
-female,group C,associate's degree,standard,none,Best,Best,Best
-female,group B,high school,free/reduced,none,Ok,Ok,Ok
-male,group D,some high school,standard,none,Best,Best,Best
-male,group B,some high school,standard,completed,Best,Best,Best
-female,group A,some college,standard,completed,Best,Best,Best
-female,group C,some high school,standard,none,Best,Good,Best
-male,group A,high school,standard,none,Ok,Ok,Ok
-female,group C,associate's degree,standard,none,Ok,Ok,Ok
-male,group E,some high school,standard,completed,Best,Good,Best
-female,group A,some high school,free/reduced,none,Ok,Ok,Ok
-female,group D,some college,free/reduced,completed,Good,Best,Best
-male,group E,high school,free/reduced,completed,Best,Best,Good
-female,group B,some high school,standard,completed,Good,Best,Best
-female,group D,associate's degree,free/reduced,none,Ok,Good,Best
-female,group D,bachelor's degree,free/reduced,none,Good,Good,Good
-male,group A,high school,standard,none,Good,Ok,Ok
-female,group E,master's degree,standard,completed,Best,Best,Best
-male,group C,high school,free/reduced,none,Good,Ok,Ok
-female,group C,high school,free/reduced,completed,Ok,Good,Good
-female,group D,some college,standard,completed,Good,Best,Best
-female,group D,some college,free/reduced,none,Best,Best,Best
+model,transmission,fuelType,year binned,price binned,mileage binned,mpg binned,engineSize binned
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A4,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ Q5,Automatic,Diesel,Ok,Good,Best,Good,Good
+ A5,Automatic,Diesel,Good,Good,Best,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ Q5,Semi-Auto,Petrol,Good,Best,Good,Ok,Best
+ A6,Automatic,Diesel,Ok,Good,Best,Best,Good
+ A4,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ A4,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A5,Automatic,Diesel,Good,Good,Good,Best,Good
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ Q3,Automatic,Diesel,Ok,Ok,Good,Best,Good
+ TT,Automatic,Petrol,Good,Best,Ok,Ok,Best
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ A3,Manual,Petrol,Good,Good,Good,Best,Ok
+ A5,Semi-Auto,Petrol,Good,Good,Good,Good,Good
+ A1,Manual,Petrol,Ok,Ok,Best,Good,Ok
+ A5,Manual,Petrol,Good,Best,Ok,Ok,Good
+ A4,Manual,Petrol,Ok,Ok,Best,Good,Ok
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ Q5,Semi-Auto,Petrol,Good,Best,Good,Ok,Good
+ Q7,Semi-Auto,Diesel,Good,Best,Best,Ok,Best
+ A3,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ Q3,Automatic,Diesel,Ok,Good,Good,Good,Good
+ A3,Manual,Diesel,Ok,Ok,Good,Best,Ok
+ A5,Automatic,Diesel,Good,Good,Good,Best,Good
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A4,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Manual,Diesel,Good,Ok,Good,Best,Good
+ A6,Automatic,Diesel,Good,Best,Good,Good,Good
+ A3,Manual,Diesel,Good,Good,Good,Best,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Good
+ Q2,Automatic,Petrol,Good,Best,Ok,Ok,Ok
+ A4,Manual,Diesel,Good,Good,Good,Best,Good
+ Q3,Manual,Diesel,Good,Good,Good,Good,Good
+ Q5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A1,Manual,Diesel,Good,Ok,Good,Best,Ok
+ A3,Semi-Auto,Petrol,Good,Good,Ok,Ok,Ok
+ TT,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A8,Semi-Auto,Petrol,Good,Best,Best,Ok,Best
+ A1,Manual,Petrol,Good,Ok,Ok,Best,Ok
+ Q2,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ Q2,Manual,Petrol,Best,Best,Ok,Ok,Ok
+ A6,Automatic,Diesel,Good,Best,Ok,Good,Good
+ Q3,Semi-Auto,Petrol,Best,Best,Ok,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Good,Good
+ A1,Manual,Petrol,Good,Good,Ok,Good,Ok
+ Q7,Semi-Auto,Diesel,Best,Best,Ok,Ok,Best
+ Q2,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A3,Manual,Petrol,Good,Good,Good,Best,Ok
+ A1,Manual,Petrol,Good,Ok,Best,Best,Ok
+ A6,Manual,Diesel,Ok,Ok,Best,Ok,Good
+ Q2,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A3,Semi-Auto,Diesel,Good,Good,Ok,Good,Ok
+ Q3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Ok
+ Q2,Manual,Diesel,Good,Good,Good,Good,Ok
+ A1,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Good,Ok,Ok,Best,Ok
+ Q5,Semi-Auto,Diesel,Ok,Good,Best,Good,Best
+ Q3,Semi-Auto,Petrol,Best,Best,Ok,Ok,Good
+ A1,Semi-Auto,Petrol,Best,Good,Ok,Ok,Ok
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A4,Manual,Diesel,Good,Ok,Best,Best,Good
+ A3,Semi-Auto,Diesel,Ok,Ok,Best,Good,Good
+ Q7,Semi-Auto,Diesel,Ok,Best,Good,Good,Best
+ A3,Manual,Petrol,Ok,Good,Good,Best,Ok
+ A4,Automatic,Petrol,Ok,Ok,Best,Ok,Best
+ A1,Manual,Petrol,Ok,Good,Good,Ok,Good
+ A5,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A7,Automatic,Diesel,Good,Good,Best,Good,Best
+ TT,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A6,Automatic,Diesel,Good,Best,Good,Good,Good
+ A3,Semi-Auto,Petrol,Good,Good,Good,Ok,Ok
+ Q3,Semi-Auto,Petrol,Ok,Ok,Good,Ok,Good
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Ok,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ A6,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ Q7,Automatic,Diesel,Good,Best,Good,Ok,Best
+ Q3,Manual,Petrol,Good,Good,Good,Good,Ok
+ Q3,Manual,Petrol,Best,Best,Ok,Ok,Ok
+ A3,Semi-Auto,Diesel,Good,Good,Best,Best,Good
+ Q2,Automatic,Diesel,Good,Good,Ok,Good,Ok
+ Q2,Manual,Diesel,Good,Best,Ok,Good,Ok
+ A4,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ A5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A4,Manual,Diesel,Good,Ok,Best,Best,Good
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ Q5,Automatic,Diesel,Good,Best,Good,Ok,Good
+ A4,Semi-Auto,Diesel,Good,Good,Good,Good,Best
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ S4,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q2,Automatic,Petrol,Good,Best,Good,Good,Ok
+ A1,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ Q2,Manual,Diesel,Good,Ok,Best,Best,Ok
+ A5,Semi-Auto,Diesel,Good,Good,Best,Best,Best
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A6,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A5,Semi-Auto,Diesel,Ok,Ok,Best,Good,Good
+ Q3,Semi-Auto,Petrol,Ok,Good,Best,Good,Ok
+ A5,Automatic,Petrol,Good,Best,Good,Ok,Good
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ A5,Automatic,Diesel,Good,Good,Good,Best,Good
+ A3,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ A6,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A4,Manual,Petrol,Good,Good,Ok,Ok,Good
+ Q3,Manual,Petrol,Best,Best,Ok,Ok,Ok
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ Q3,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A6,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Manual,Petrol,Good,Good,Good,Ok,Ok
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A8,Automatic,Diesel,Ok,Ok,Best,Ok,Best
+ Q2,Manual,Diesel,Good,Ok,Best,Best,Ok
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ RS3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Best
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Ok,Good
+ A5,Semi-Auto,Diesel,Ok,Ok,Best,Good,Good
+ Q2,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ Q3,Semi-Auto,Diesel,Good,Good,Good,Good,Good
+ A5,Semi-Auto,Petrol,Good,Good,Best,Good,Good
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ A4,Manual,Petrol,Good,Good,Good,Good,Ok
+ A4,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ A3,Automatic,Petrol,Good,Ok,Good,Best,Ok
+ Q3,Semi-Auto,Diesel,Good,Good,Best,Good,Good
+ A4,Manual,Petrol,Best,Best,Ok,Ok,Good
+ Q5,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A4,Manual,Diesel,Ok,Ok,Good,Best,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Manual,Diesel,Ok,Good,Best,Good,Good
+ Q5,Semi-Auto,Petrol,Good,Best,Good,Ok,Best
+ R8,Automatic,Petrol,Ok,Best,Best,Ok,Best
+ A4,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A4,Semi-Auto,Diesel,Good,Best,Ok,Good,Good
+ A6,Automatic,Diesel,Ok,Ok,Best,Best,Best
+ A5,Semi-Auto,Petrol,Best,Best,Ok,Ok,Good
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A4,Automatic,Diesel,Ok,Good,Good,Best,Good
+ A3,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A3,Semi-Auto,Petrol,Ok,Good,Good,Best,Ok
+ Q5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Best
+ A8,Automatic,Diesel,Good,Best,Ok,Good,Best
+ A3,Semi-Auto,Diesel,Good,Good,Good,Good,Ok
+ A3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ Q5,Semi-Auto,Diesel,Good,Good,Best,Good,Good
+ TT,Manual,Diesel,Ok,Good,Good,Best,Good
+ A1,Semi-Auto,Petrol,Ok,Good,Ok,Best,Ok
+ A4,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ Q2,Automatic,Petrol,Good,Best,Ok,Ok,Ok
+ A3,Manual,Diesel,Ok,Ok,Good,Best,Ok
+ A6,Automatic,Diesel,Good,Best,Good,Good,Good
+ Q3,Manual,Petrol,Good,Good,Good,Good,Ok
+ A5,Semi-Auto,Petrol,Good,Best,Good,Ok,Good
+ A3,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A1,Semi-Auto,Petrol,Ok,Ok,Best,Best,Ok
+ TT,Manual,Petrol,Ok,Good,Good,Good,Good
+ Q3,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ RS3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Best
+ A3,Automatic,Petrol,Ok,Good,Best,Ok,Good
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Good,Good
+ Q3,Manual,Petrol,Good,Good,Good,Good,Ok
+ A6,Semi-Auto,Diesel,Ok,Good,Best,Best,Good
+ Q2,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Semi-Auto,Diesel,Good,Good,Best,Good,Good
+ A4,Semi-Auto,Petrol,Ok,Good,Good,Good,Good
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A5,Semi-Auto,Diesel,Good,Good,Best,Best,Good
+ A3,Automatic,Diesel,Good,Good,Good,Good,Ok
+ A6,Semi-Auto,Diesel,Good,Best,Ok,Good,Good
+ A7,Semi-Auto,Diesel,Good,Best,Ok,Ok,Best
+ A1,Manual,Diesel,Ok,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A7,Semi-Auto,Petrol,Good,Best,Best,Ok,Best
+ A3,Automatic,Diesel,Ok,Good,Good,Best,Good
+ Q2,Manual,Petrol,Good,Good,Best,Good,Ok
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ A3,Manual,Diesel,Good,Ok,Good,Best,Ok
+ Q3,Semi-Auto,Petrol,Best,Best,Ok,Ok,Ok
+ A6,Automatic,Diesel,Ok,Good,Best,Best,Good
+ A1,Manual,Diesel,Good,Ok,Best,Best,Ok
+ A3,Manual,Petrol,Ok,Good,Best,Best,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Ok,Good
+ A5,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Semi-Auto,Diesel,Good,Good,Good,Best,Good
+ Q2,Manual,Petrol,Good,Ok,Best,Good,Ok
+ A5,Manual,Diesel,Good,Good,Good,Best,Good
+ Q5,Automatic,Petrol,Best,Best,Ok,Ok,Good
+ A1,Semi-Auto,Petrol,Good,Good,Good,Best,Ok
+ Q3,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ A1,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ Q5,Semi-Auto,Diesel,Best,Best,Ok,Ok,Best
+ A4,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A4,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A5,Automatic,Petrol,Good,Good,Best,Good,Good
+ A3,Manual,Diesel,Good,Ok,Best,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ A6,Semi-Auto,Diesel,Ok,Good,Good,Best,Good
+ A3,Automatic,Diesel,Good,Good,Ok,Good,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Good,Good,Good,Best,Ok
+ A1,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Manual,Diesel,Good,Best,Ok,Good,Ok
+ A5,Manual,Diesel,Ok,Good,Best,Best,Good
+ A3,Semi-Auto,Petrol,Good,Good,Ok,Ok,Ok
+ A8,Automatic,Diesel,Ok,Ok,Best,Ok,Best
+ A4,Manual,Diesel,Good,Good,Best,Best,Good
+ Q5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ TT,Semi-Auto,Petrol,Ok,Best,Good,Ok,Good
+ A4,Automatic,Petrol,Good,Good,Best,Ok,Good
+ A3,Manual,Diesel,Best,Good,Ok,Good,Ok
+ Q3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q2,Automatic,Petrol,Good,Best,Ok,Ok,Ok
+ Q3,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ Q3,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ Q7,Semi-Auto,Diesel,Good,Best,Best,Ok,Best
+ A4,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A4,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Manual,Diesel,Good,Good,Ok,Good,Good
+ A5,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ Q3,Manual,Diesel,Ok,Good,Good,Good,Good
+ A4,Semi-Auto,Diesel,Good,Best,Ok,Good,Good
+ Q2,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A1,Manual,Diesel,Good,Ok,Good,Best,Ok
+ Q5,Semi-Auto,Diesel,Good,Best,Good,Good,Good
+ Q3,Manual,Diesel,Good,Good,Best,Best,Good
+ Q3,Semi-Auto,Diesel,Best,Best,Ok,Good,Good
+ A3,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ Q7,Semi-Auto,Diesel,Good,Best,Good,Ok,Best
+ Q5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ A1,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ A3,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A6,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Semi-Auto,Diesel,Ok,Good,Good,Good,Good
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ A1,Automatic,Petrol,Good,Good,Ok,Ok,Good
+ Q2,Semi-Auto,Petrol,Good,Good,Ok,Ok,Ok
+ A5,Automatic,Petrol,Good,Best,Good,Good,Good
+ A7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A4,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A5,Automatic,Petrol,Best,Best,Ok,Ok,Good
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A3,Manual,Petrol,Good,Ok,Best,Best,Ok
+ A4,Semi-Auto,Diesel,Best,Best,Ok,Good,Good
+ A6,Automatic,Diesel,Good,Best,Good,Good,Good
+ A5,Automatic,Petrol,Good,Good,Good,Ok,Good
+ Q3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A7,Automatic,Diesel,Ok,Good,Best,Best,Best
+ Q2,Semi-Auto,Petrol,Good,Good,Ok,Good,Ok
+ A4,Semi-Auto,Petrol,Good,Good,Good,Ok,Good
+ A4,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A4,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ RS3,Automatic,Petrol,Good,Best,Ok,Ok,Best
+ A1,Manual,Petrol,Good,Good,Ok,Good,Ok
+ A4,Semi-Auto,Diesel,Ok,Ok,Best,Good,Best
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ Q5,Automatic,Diesel,Ok,Best,Best,Ok,Best
+ Q7,Automatic,Diesel,Good,Best,Best,Ok,Best
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ Q3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ TT,Semi-Auto,Petrol,Good,Best,Good,Ok,Good
+ Q5,Semi-Auto,Diesel,Ok,Best,Best,Ok,Best
+ A3,Automatic,Hybrid,Ok,Ok,Best,Best,Ok
+ Q5,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ A5,Manual,Diesel,Good,Ok,Best,Best,Good
+ TT,Manual,Petrol,Good,Best,Best,Ok,Good
+ Q5,Automatic,Diesel,Good,Best,Good,Ok,Good
+ Q5,Manual,Diesel,Ok,Ok,Best,Good,Good
+ Q3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ Q5,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ Q5,Manual,Petrol,Ok,Good,Best,Ok,Good
+ A4,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A4,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Semi-Auto,Petrol,Good,Good,Ok,Ok,Ok
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ A3,Manual,Diesel,Good,Good,Ok,Best,Good
+ A3,Manual,Petrol,Good,Good,Good,Good,Ok
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A1,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Semi-Auto,Petrol,Ok,Good,Best,Ok,Good
+ Q2,Semi-Auto,Petrol,Good,Best,Ok,Ok,Ok
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ A1,Manual,Petrol,Ok,Ok,Best,Good,Ok
+ Q7,Automatic,Diesel,Good,Best,Good,Ok,Best
+ A5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ TT,Automatic,Petrol,Ok,Ok,Best,Ok,Best
+ A3,Manual,Petrol,Good,Ok,Best,Good,Good
+ TT,Manual,Petrol,Good,Best,Ok,Ok,Good
+ A4,Manual,Petrol,Good,Good,Ok,Ok,Good
+ A4,Manual,Petrol,Good,Good,Best,Good,Good
+ A5,Manual,Petrol,Ok,Ok,Best,Ok,Good
+ Q5,Semi-Auto,Diesel,Best,Best,Ok,Ok,Best
+ Q3,Automatic,Diesel,Ok,Ok,Best,Good,Good
+ Q5,Semi-Auto,Diesel,Ok,Good,Good,Good,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A6,Automatic,Diesel,Good,Best,Ok,Good,Good
+ Q3,Automatic,Petrol,Ok,Good,Best,Good,Ok
+ Q3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Automatic,Petrol,Good,Good,Good,Good,Ok
+ A1,Manual,Petrol,Good,Good,Ok,Good,Ok
+ Q2,Manual,Petrol,Best,Best,Ok,Ok,Ok
+ A3,Automatic,Diesel,Ok,Good,Best,Best,Good
+ A1,Semi-Auto,Petrol,Good,Ok,Good,Best,Ok
+ Q2,Semi-Auto,Diesel,Good,Good,Ok,Good,Ok
+ A3,Semi-Auto,Petrol,Good,Good,Good,Ok,Good
+ R8,Semi-Auto,Petrol,Good,Best,Ok,Ok,Best
+ A6,Semi-Auto,Diesel,Good,Best,Good,Good,Best
+ A5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Manual,Petrol,Ok,Good,Good,Good,Ok
+ A3,Manual,Petrol,Good,Good,Good,Ok,Ok
+ A3,Semi-Auto,Petrol,Good,Good,Good,Best,Ok
+ A8,Automatic,Diesel,Good,Best,Ok,Good,Best
+ A4,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ A7,Semi-Auto,Diesel,Ok,Good,Good,Good,Best
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A5,Semi-Auto,Diesel,Good,Best,Good,Good,Good
+ Q3,Automatic,Diesel,Ok,Ok,Best,Good,Good
+ Q2,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A4,Semi-Auto,Diesel,Ok,Good,Best,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ A5,Semi-Auto,Diesel,Good,Good,Best,Best,Best
+ A6,Semi-Auto,Diesel,Good,Best,Ok,Ok,Best
+ Q3,Manual,Diesel,Ok,Good,Best,Good,Good
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Ok,Good
+ Q5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Best
+ Q2,Manual,Petrol,Good,Good,Ok,Good,Ok
+ A1,Manual,Petrol,Good,Ok,Ok,Best,Ok
+ Q5,Manual,Diesel,Ok,Good,Best,Good,Good
+ A4,Manual,Diesel,Good,Ok,Best,Best,Good
+ A5,Semi-Auto,Petrol,Good,Best,Good,Good,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A4,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A4,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A5,Automatic,Diesel,Good,Good,Best,Best,Good
+ Q3,Automatic,Diesel,Ok,Good,Best,Good,Good
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ RS6,Automatic,Petrol,Ok,Best,Best,Ok,Best
+ A4,Manual,Petrol,Ok,Ok,Best,Ok,Good
+ Q7,Automatic,Diesel,Ok,Good,Best,Ok,Best
+ Q5,Manual,Diesel,Ok,Good,Best,Good,Good
+ Q3,Manual,Petrol,Good,Good,Good,Good,Ok
+ TT,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Best,Good,Ok,Good,Ok
+ Q5,Semi-Auto,Diesel,Good,Best,Best,Ok,Best
+ A3,Automatic,Diesel,Ok,Ok,Best,Ok,Good
+ A3,Semi-Auto,Petrol,Ok,Good,Best,Ok,Good
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q5,Automatic,Diesel,Ok,Ok,Best,Good,Good
+ A4,Semi-Auto,Diesel,Good,Best,Good,Good,Good
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A3,Automatic,Petrol,Good,Good,Ok,Ok,Ok
+ RS6,Automatic,Petrol,Ok,Best,Good,Ok,Best
+ Q3,Manual,Petrol,Good,Good,Good,Good,Ok
+ Q5,Automatic,Diesel,Ok,Good,Best,Good,Good
+ A7,Automatic,Diesel,Ok,Good,Best,Best,Best
+ Q3,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Ok,Ok
+ Q5,Semi-Auto,Diesel,Best,Best,Ok,Ok,Good
+ A8,Automatic,Diesel,Ok,Good,Best,Good,Best
+ Q3,Manual,Petrol,Good,Good,Best,Good,Ok
+ A3,Manual,Petrol,Ok,Ok,Best,Good,Ok
+ A1,Manual,Petrol,Good,Ok,Ok,Best,Ok
+ Q7,Semi-Auto,Diesel,Good,Best,Good,Ok,Best
+ TT,Manual,Diesel,Ok,Good,Best,Best,Good
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ A3,Manual,Petrol,Ok,Good,Good,Best,Ok
+ A5,Automatic,Petrol,Best,Best,Ok,Ok,Good
+ Q5,Semi-Auto,Petrol,Good,Best,Best,Ok,Good
+ Q3,Manual,Petrol,Ok,Good,Good,Good,Ok
+ Q3,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ A8,Automatic,Petrol,Ok,Best,Good,Ok,Best
+ Q2,Semi-Auto,Diesel,Good,Good,Best,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A6,Semi-Auto,Diesel,Ok,Good,Best,Good,Best
+ A7,Automatic,Diesel,Ok,Ok,Best,Good,Best
+ Q7,Semi-Auto,Diesel,Best,Best,Ok,Ok,Best
+ A4,Manual,Petrol,Good,Best,Ok,Ok,Good
+ A3,Semi-Auto,Petrol,Ok,Ok,Good,Good,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A3,Automatic,Petrol,Ok,Ok,Good,Best,Ok
+ A5,Automatic,Diesel,Good,Good,Good,Best,Good
+ Q7,Semi-Auto,Diesel,Good,Best,Ok,Ok,Best
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ Q2,Semi-Auto,Diesel,Good,Good,Ok,Good,Ok
+ RS5,Automatic,Petrol,Good,Best,Ok,Ok,Best
+ A4,Manual,Petrol,Good,Good,Good,Good,Ok
+ A1,Semi-Auto,Petrol,Good,Ok,Good,Best,Ok
+ A5,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A4,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ Q2,Manual,Diesel,Good,Good,Good,Best,Ok
+ A6,Automatic,Diesel,Ok,Ok,Good,Best,Good
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ Q7,Automatic,Diesel,Good,Best,Best,Good,Best
+ A4,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ A6,Manual,Diesel,Ok,Good,Best,Best,Good
+ Q5,Automatic,Diesel,Good,Good,Best,Good,Good
+ A3,Semi-Auto,Diesel,Ok,Good,Best,Best,Good
+ A4,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ A4,Automatic,Petrol,Good,Good,Ok,Ok,Good
+ A4,Manual,Petrol,Good,Ok,Best,Good,Ok
+ Q7,Automatic,Diesel,Good,Best,Good,Ok,Best
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ A6,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ Q5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Manual,Diesel,Good,Ok,Best,Best,Good
+ Q3,Automatic,Petrol,Good,Best,Good,Ok,Good
+ A3,Automatic,Petrol,Good,Good,Good,Ok,Ok
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ A1,Manual,Diesel,Good,Ok,Good,Best,Ok
+ A3,Automatic,Petrol,Ok,Ok,Best,Ok,Good
+ A3,Semi-Auto,Diesel,Good,Good,Good,Good,Ok
+ A6,Semi-Auto,Diesel,Good,Best,Ok,Good,Good
+ Q3,Semi-Auto,Petrol,Good,Good,Good,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Good,Ok
+ A4,Automatic,Diesel,Good,Good,Ok,Good,Good
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A3,Manual,Diesel,Good,Ok,Best,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Best,Good,Ok
+ Q7,Semi-Auto,Diesel,Best,Best,Ok,Ok,Best
+ Q3,Manual,Petrol,Best,Best,Ok,Ok,Ok
+ A3,Manual,Diesel,Good,Good,Good,Best,Good
+ A1,Manual,Petrol,Good,Ok,Ok,Best,Ok
+ A1,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A8,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A4,Manual,Petrol,Good,Good,Good,Good,Ok
+ A1,Manual,Petrol,Good,Good,Ok,Good,Ok
+ Q3,Automatic,Petrol,Good,Good,Good,Ok,Good
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ RS3,Semi-Auto,Petrol,Good,Best,Good,Ok,Best
+ A4,Manual,Diesel,Ok,Ok,Best,Ok,Good
+ A1,Manual,Petrol,Good,Ok,Best,Best,Ok
+ A3,Automatic,Diesel,Good,Good,Ok,Good,Ok
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ Q5,Semi-Auto,Petrol,Ok,Best,Good,Ok,Good
+ A4,Manual,Diesel,Good,Good,Good,Best,Good
+ A6,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ A8,Semi-Auto,Diesel,Good,Best,Ok,Good,Best
+ A1,Manual,Petrol,Good,Good,Good,Ok,Good
+ A1,Manual,Petrol,Good,Good,Good,Ok,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Good,Good
+ Q2,Semi-Auto,Petrol,Best,Best,Ok,Ok,Good
+ A5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A1,Automatic,Petrol,Ok,Ok,Best,Best,Ok
+ A3,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ A3,Semi-Auto,Petrol,Ok,Ok,Good,Best,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Good,Good
+ S3,Automatic,Petrol,Ok,Good,Best,Ok,Good
+ Q3,Automatic,Diesel,Ok,Good,Best,Good,Good
+ A4,Manual,Petrol,Good,Ok,Good,Good,Ok
+ Q5,Semi-Auto,Diesel,Good,Best,Good,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ SQ5,Automatic,Diesel,Best,Best,Ok,Ok,Ok
+ A6,Manual,Diesel,Good,Ok,Best,Best,Good
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ S3,Manual,Petrol,Ok,Good,Best,Ok,Good
+ Q5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ A3,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A3,Automatic,Petrol,Good,Best,Ok,Ok,Ok
+ Q3,Automatic,Petrol,Good,Best,Good,Ok,Good
+ A7,Semi-Auto,Diesel,Ok,Good,Good,Good,Best
+ A3,Semi-Auto,Petrol,Ok,Ok,Good,Best,Ok
+ A5,Semi-Auto,Diesel,Good,Good,Good,Best,Good
+ TT,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A3,Manual,Diesel,Ok,Good,Good,Best,Good
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ A3,Manual,Diesel,Ok,Ok,Good,Best,Ok
+ A3,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ A3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ R8,Automatic,Petrol,Ok,Best,Good,Ok,Best
+ A3,Automatic,Petrol,Good,Good,Good,Ok,Ok
+ Q5,Manual,Diesel,Ok,Good,Best,Good,Good
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ Q2,Manual,Diesel,Good,Good,Best,Best,Ok
+ A5,Semi-Auto,Diesel,Good,Good,Best,Best,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Good
+ Q7,Automatic,Diesel,Good,Best,Best,Ok,Best
+ A5,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Automatic,Petrol,Good,Good,Ok,Ok,Ok
+ A1,Automatic,Petrol,Good,Good,Ok,Ok,Ok
+ A4,Manual,Diesel,Good,Ok,Good,Best,Good
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A3,Automatic,Petrol,Good,Ok,Ok,Best,Ok
+ A3,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A4,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A3,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A5,Semi-Auto,Petrol,Best,Best,Ok,Ok,Good
+ A5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A6,Semi-Auto,Diesel,Ok,Good,Best,Good,Best
+ A4,Manual,Petrol,Good,Good,Good,Good,Ok
+ Q2,Automatic,Petrol,Good,Good,Ok,Ok,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ TT,Manual,Petrol,Ok,Good,Good,Good,Good
+ A4,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A3,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A4,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ Q5,Automatic,Petrol,Good,Best,Good,Ok,Good
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ Q2,Manual,Petrol,Best,Best,Ok,Ok,Ok
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A1,Manual,Diesel,Ok,Ok,Good,Best,Good
+ A4,Semi-Auto,Petrol,Best,Best,Ok,Ok,Good
+ Q3,Manual,Petrol,Ok,Good,Best,Good,Ok
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ Q5,Semi-Auto,Diesel,Best,Best,Ok,Ok,Good
+ Q2,Automatic,Petrol,Good,Good,Ok,Ok,Ok
+ Q5,Automatic,Diesel,Ok,Ok,Best,Ok,Good
+ Q3,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ Q7,Semi-Auto,Diesel,Best,Best,Ok,Ok,Best
+ A5,Manual,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ Q3,Semi-Auto,Diesel,Ok,Good,Good,Good,Good
+ A3,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A4,Manual,Petrol,Good,Ok,Good,Good,Ok
+ Q3,Semi-Auto,Diesel,Ok,Ok,Best,Good,Good
+ A5,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ A3,Semi-Auto,Petrol,Best,Best,Ok,Ok,Good
+ Q3,Semi-Auto,Petrol,Good,Best,Good,Good,Ok
+ A4,Automatic,Diesel,Good,Best,Ok,Good,Good
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ Q3,Manual,Diesel,Ok,Ok,Good,Best,Good
+ A6,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Manual,Diesel,Ok,Ok,Good,Best,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A3,Manual,Diesel,Good,Good,Good,Good,Ok
+ A1,Semi-Auto,Petrol,Best,Good,Ok,Ok,Ok
+ A1,Manual,Petrol,Good,Good,Ok,Good,Ok
+ Q5,Automatic,Petrol,Good,Best,Good,Ok,Good
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ Q2,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ A7,Semi-Auto,Diesel,Good,Good,Best,Best,Best
+ Q7,Automatic,Diesel,Good,Best,Best,Ok,Best
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Best,Good,Ok
+ A3,Manual,Petrol,Good,Ok,Good,Best,Ok
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A6,Automatic,Diesel,Good,Good,Good,Best,Good
+ A4,Manual,Diesel,Ok,Good,Good,Best,Good
+ Q7,Semi-Auto,Diesel,Good,Best,Good,Ok,Best
+ Q3,Manual,Diesel,Good,Ok,Best,Best,Good
+ A3,Automatic,Petrol,Good,Good,Good,Ok,Ok
+ Q2,Manual,Petrol,Good,Good,Ok,Ok,Ok
+ Q8,Semi-Auto,Diesel,Good,Best,Good,Ok,Best
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ Q3,Manual,Diesel,Ok,Good,Best,Good,Good
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ Q5,Semi-Auto,Diesel,Good,Good,Good,Good,Good
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ A5,Semi-Auto,Diesel,Best,Best,Ok,Good,Good
+ A3,Semi-Auto,Petrol,Good,Best,Good,Ok,Good
+ TT,Semi-Auto,Petrol,Ok,Best,Good,Ok,Best
+ A1,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ A4,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ A6,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ Q5,Automatic,Diesel,Good,Best,Good,Good,Good
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Ok,Good
+ A1,Manual,Petrol,Good,Ok,Best,Good,Ok
+ A4,Automatic,Diesel,Good,Best,Ok,Good,Good
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ A4,Manual,Petrol,Good,Good,Ok,Ok,Good
+ A3,Manual,Diesel,Good,Ok,Best,Best,Good
+ A8,Automatic,Diesel,Good,Best,Ok,Good,Best
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q7,Automatic,Diesel,Ok,Best,Good,Good,Best
+ RS5,Automatic,Petrol,Good,Best,Ok,Ok,Best
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ RS6,Semi-Auto,Petrol,Ok,Best,Good,Ok,Best
+ Q7,Automatic,Diesel,Good,Best,Good,Ok,Best
+ Q7,Semi-Auto,Diesel,Good,Best,Good,Ok,Best
+ A3,Semi-Auto,Petrol,Ok,Ok,Best,Best,Ok
+ A6,Semi-Auto,Diesel,Best,Best,Ok,Good,Good
+ A3,Automatic,Diesel,Good,Best,Ok,Good,Ok
+ Q2,Automatic,Petrol,Good,Best,Ok,Ok,Ok
+ Q2,Manual,Diesel,Good,Best,Ok,Good,Ok
+ A5,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ A6,Semi-Auto,Diesel,Good,Good,Good,Best,Good
+ A3,Manual,Diesel,Good,Ok,Good,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A4,Semi-Auto,Diesel,Ok,Good,Best,Best,Good
+ A5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ Q7,Automatic,Diesel,Good,Best,Good,Ok,Best
+ A3,Manual,Diesel,Good,Ok,Good,Best,Good
+ A4,Manual,Petrol,Good,Ok,Good,Good,Good
+ A3,Automatic,Petrol,Good,Best,Good,Ok,Good
+ Q5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A4,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A4,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ TT,Manual,Petrol,Ok,Good,Best,Good,Good
+ TT,Manual,Petrol,Ok,Good,Good,Good,Good
+ A3,Automatic,Diesel,Ok,Ok,Best,Best,Ok
+ A1,Semi-Auto,Diesel,Good,Ok,Good,Best,Ok
+ A4,Automatic,Petrol,Good,Best,Good,Good,Ok
+ A6,Manual,Diesel,Ok,Ok,Best,Ok,Best
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ TT,Manual,Petrol,Ok,Ok,Good,Ok,Good
+ A5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ TT,Manual,Petrol,Ok,Ok,Best,Good,Good
+ A6,Semi-Auto,Diesel,Ok,Good,Good,Good,Best
+ A5,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A6,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Semi-Auto,Diesel,Good,Best,Good,Good,Good
+ A3,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ Q7,Automatic,Diesel,Ok,Best,Good,Good,Best
+ A6,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A6,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A5,Semi-Auto,Diesel,Good,Good,Good,Best,Best
+ Q3,Automatic,Petrol,Good,Good,Good,Ok,Good
+ Q5,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ Q3,Semi-Auto,Diesel,Good,Best,Ok,Good,Good
+ A5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A3,Manual,Petrol,Good,Good,Ok,Ok,Ok
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A4,Automatic,Diesel,Good,Good,Good,Best,Good
+ A3,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ S4,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A3,Manual,Diesel,Good,Good,Good,Good,Ok
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ Q5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A6,Automatic,Diesel,Ok,Good,Best,Best,Good
+ TT,Manual,Petrol,Ok,Ok,Best,Ok,Good
+ RS6,Semi-Auto,Petrol,Good,Best,Best,Ok,Best
+ A3,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A3,Semi-Auto,Petrol,Good,Good,Good,Best,Ok
+ RS4,Automatic,Petrol,Good,Best,Ok,Ok,Best
+ A6,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ A1,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q5,Semi-Auto,Petrol,Good,Best,Good,Ok,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ Q5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ A3,Manual,Diesel,Ok,Ok,Good,Best,Ok
+ Q5,Semi-Auto,Diesel,Good,Best,Good,Good,Good
+ A4,Manual,Petrol,Good,Good,Good,Good,Ok
+ Q5,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ Q2,Semi-Auto,Petrol,Good,Best,Ok,Ok,Ok
+ A6,Semi-Auto,Diesel,Good,Best,Ok,Ok,Best
+ Q2,Manual,Petrol,Good,Good,Ok,Ok,Ok
+ RS5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Best
+ A1,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ A8,Semi-Auto,Diesel,Best,Best,Ok,Ok,Best
+ A4,Manual,Diesel,Ok,Ok,Best,Good,Good
+ A1,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ Q7,Semi-Auto,Diesel,Ok,Best,Best,Good,Best
+ A4,Semi-Auto,Diesel,Good,Best,Good,Best,Good
+ A5,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ Q3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ Q2,Semi-Auto,Petrol,Best,Best,Ok,Ok,Ok
+ Q2,Semi-Auto,Petrol,Ok,Good,Good,Good,Ok
+ Q3,Automatic,Petrol,Ok,Good,Good,Good,Ok
+ A6,Semi-Auto,Diesel,Ok,Good,Good,Good,Best
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ A3,Semi-Auto,Petrol,Good,Good,Good,Ok,Ok
+ Q2,Semi-Auto,Petrol,Good,Good,Best,Good,Ok
+ A5,Automatic,Diesel,Ok,Good,Best,Good,Good
+ A1,Semi-Auto,Petrol,Ok,Ok,Best,Good,Ok
+ A1,Automatic,Petrol,Good,Good,Ok,Good,Ok
+ A3,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A4,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Good,Ok
+ A4,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A3,Manual,Petrol,Ok,Good,Good,Best,Ok
+ A5,Manual,Diesel,Good,Good,Best,Best,Good
+ A3,Semi-Auto,Diesel,Good,Good,Best,Best,Good
+ A3,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A6,Automatic,Diesel,Good,Good,Good,Best,Good
+ A3,Manual,Petrol,Good,Good,Good,Good,Good
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A4,Semi-Auto,Petrol,Ok,Good,Best,Good,Good
+ A3,Semi-Auto,Diesel,Good,Good,Ok,Good,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ Q3,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Semi-Auto,Petrol,Ok,Ok,Best,Best,Ok
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Manual,Diesel,Ok,Ok,Good,Best,Good
+ Q5,Automatic,Diesel,Good,Best,Good,Good,Best
+ Q3,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Semi-Auto,Diesel,Good,Good,Ok,Good,Ok
+ A6,Automatic,Diesel,Good,Good,Good,Best,Good
+ Q5,Semi-Auto,Diesel,Best,Best,Ok,Ok,Good
+ A1,Manual,Petrol,Best,Good,Ok,Good,Ok
+ A4,Semi-Auto,Diesel,Good,Good,Good,Best,Good
+ Q3,Manual,Petrol,Best,Best,Ok,Ok,Ok
+ A5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ A4,Manual,Diesel,Ok,Good,Good,Best,Good
+ A6,Semi-Auto,Diesel,Ok,Best,Best,Good,Best
+ A1,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ Q5,Semi-Auto,Diesel,Ok,Good,Good,Good,Good
+ A4,Automatic,Petrol,Good,Good,Good,Good,Ok
+ A6,Semi-Auto,Diesel,Good,Good,Good,Best,Good
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ A6,Manual,Diesel,Good,Ok,Best,Best,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Ok,Good
+ A3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Ok
+ Q3,Manual,Petrol,Ok,Ok,Good,Good,Ok
+ A5,Manual,Diesel,Ok,Good,Best,Good,Good
+ A1,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ Q3,Manual,Diesel,Good,Ok,Good,Best,Good
+ A4,Semi-Auto,Petrol,Good,Good,Best,Good,Ok
+ Q3,Manual,Diesel,Ok,Ok,Best,Good,Good
+ A1,Semi-Auto,Petrol,Best,Best,Ok,Ok,Ok
+ Q2,Semi-Auto,Diesel,Good,Good,Ok,Good,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Good,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ Q5,Semi-Auto,Diesel,Good,Best,Good,Ok,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A8,Semi-Auto,Diesel,Good,Best,Ok,Good,Best
+ A6,Semi-Auto,Diesel,Ok,Good,Best,Best,Good
+ A3,Manual,Petrol,Good,Good,Good,Good,Ok
+ A5,Semi-Auto,Petrol,Good,Best,Good,Ok,Best
+ Q5,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A3,Automatic,Diesel,Good,Good,Good,Good,Ok
+ A6,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Good
+ Q5,Semi-Auto,Petrol,Good,Best,Good,Ok,Best
+ A5,Semi-Auto,Diesel,Best,Best,Ok,Good,Good
+ Q7,Automatic,Diesel,Good,Best,Good,Ok,Best
+ A4,Semi-Auto,Diesel,Best,Best,Ok,Ok,Best
+ A5,Automatic,Diesel,Good,Best,Ok,Good,Good
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q8,Semi-Auto,Diesel,Good,Best,Ok,Ok,Best
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Good,Ok,Good,Good,Ok
+ Q2,Automatic,Diesel,Good,Good,Best,Best,Good
+ Q5,Semi-Auto,Diesel,Ok,Best,Best,Ok,Best
+ A4,Automatic,Diesel,Ok,Ok,Good,Best,Good
+ A6,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ Q2,Automatic,Diesel,Good,Good,Ok,Good,Ok
+ A5,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ A1,Manual,Petrol,Ok,Ok,Ok,Best,Ok
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A5,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ A3,Semi-Auto,Petrol,Good,Good,Ok,Ok,Ok
+ A3,Manual,Petrol,Ok,Good,Good,Ok,Good
+ A1,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ Q3,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ Q3,Semi-Auto,Diesel,Ok,Ok,Best,Good,Good
+ A3,Semi-Auto,Diesel,Ok,Ok,Best,Best,Ok
+ Q7,Automatic,Diesel,Good,Best,Good,Ok,Best
+ Q7,Automatic,Diesel,Good,Best,Good,Ok,Best
+ A7,Semi-Auto,Diesel,Good,Best,Ok,Ok,Best
+ A3,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A6,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ Q2,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Automatic,Diesel,Good,Good,Good,Good,Good
+ Q2,Manual,Diesel,Good,Good,Good,Good,Ok
+ A4,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Ok
+ A4,Automatic,Petrol,Good,Good,Best,Good,Ok
+ Q3,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ A5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A1,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q2,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ A1,Manual,Petrol,Ok,Ok,Best,Good,Ok
+ A4,Manual,Diesel,Good,Good,Good,Best,Good
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ A1,Manual,Petrol,Good,Good,Good,Good,Ok
+ A1,Manual,Petrol,Ok,Ok,Best,Good,Ok
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ Q5,Semi-Auto,Petrol,Good,Best,Good,Ok,Good
+ Q3,Semi-Auto,Diesel,Good,Good,Best,Good,Good
+ A3,Automatic,Diesel,Good,Good,Ok,Good,Ok
+ Q5,Semi-Auto,Diesel,Ok,Best,Best,Ok,Best
+ Q2,Manual,Petrol,Best,Good,Ok,Ok,Ok
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A4,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ Q5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A1,Manual,Diesel,Good,Ok,Good,Best,Ok
+ Q3,Manual,Petrol,Good,Best,Ok,Ok,Ok
+ SQ7,Automatic,Diesel,Good,Best,Good,Ok,Best
+ Q2,Automatic,Diesel,Good,Good,Best,Best,Good
+ A3,Manual,Diesel,Good,Ok,Best,Best,Good
+ A3,Semi-Auto,Diesel,Good,Good,Good,Good,Ok
+ Q3,Semi-Auto,Petrol,Best,Best,Ok,Ok,Ok
+ A6,Manual,Diesel,Ok,Good,Best,Best,Good
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ A3,Manual,Petrol,Ok,Ok,Best,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ A5,Semi-Auto,Diesel,Good,Good,Good,Best,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Manual,Petrol,Good,Good,Good,Good,Ok
+ RS4,Automatic,Petrol,Ok,Good,Best,Ok,Best
+ Q5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ A3,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ A4,Semi-Auto,Diesel,Best,Best,Ok,Good,Good
+ A1,Manual,Petrol,Good,Good,Good,Good,Ok
+ Q2,Automatic,Petrol,Good,Best,Ok,Ok,Ok
+ A3,Automatic,Petrol,Ok,Good,Good,Ok,Good
+ A3,Manual,Petrol,Ok,Ok,Best,Ok,Ok
+ A8,Automatic,Petrol,Good,Best,Ok,Ok,Best
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A3,Semi-Auto,Petrol,Ok,Good,Best,Ok,Good
+ A1,Manual,Petrol,Good,Ok,Best,Best,Ok
+ A4,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A4,Manual,Diesel,Good,Ok,Best,Best,Good
+ Q3,Manual,Petrol,Ok,Ok,Best,Ok,Good
+ Q3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Ok
+ TT,Automatic,Petrol,Ok,Ok,Best,Ok,Good
+ A3,Automatic,Petrol,Good,Good,Good,Best,Ok
+ A3,Automatic,Petrol,Good,Good,Good,Best,Ok
+ A4,Automatic,Petrol,Ok,Ok,Best,Ok,Good
+ A3,Semi-Auto,Petrol,Ok,Good,Best,Good,Good
+ A1,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ Q7,Semi-Auto,Diesel,Good,Best,Best,Good,Best
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ A1,Manual,Petrol,Ok,Ok,Best,Best,Ok
+ Q3,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ Q5,Semi-Auto,Diesel,Good,Best,Ok,Ok,Good
+ A5,Semi-Auto,Diesel,Good,Good,Best,Best,Good
+ A6,Automatic,Diesel,Good,Best,Good,Good,Good
+ A6,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ Q5,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Ok,Good
+ A3,Manual,Petrol,Ok,Ok,Ok,Best,Ok
+ A4,Manual,Diesel,Good,Ok,Good,Best,Good
+ A4,Automatic,Diesel,Good,Best,Ok,Ok,Good
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A3,Automatic,Petrol,Good,Ok,Good,Best,Ok
+ A4,Automatic,Diesel,Good,Good,Ok,Good,Good
+ A5,Manual,Petrol,Good,Good,Ok,Good,Good
+ Q3,Manual,Diesel,Good,Best,Ok,Ok,Good
+ A3,Semi-Auto,Petrol,Ok,Ok,Best,Best,Ok
+ TT,Manual,Diesel,Ok,Ok,Best,Good,Good
+ TT,Manual,Diesel,Ok,Ok,Best,Good,Good
+ A5,Automatic,Diesel,Good,Best,Ok,Good,Good
+ Q3,Automatic,Diesel,Good,Best,Ok,Good,Good
+ Q5,Manual,Petrol,Ok,Good,Best,Ok,Good
+ Q5,Semi-Auto,Hybrid,Good,Best,Ok,Best,Good
+ A6,Manual,Diesel,Ok,Ok,Best,Best,Good
+ Q3,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ Q3,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ A4,Automatic,Petrol,Good,Ok,Best,Good,Good
+ A4,Automatic,Diesel,Good,Best,Ok,Good,Good
+ Q3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A4,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A3,Manual,Petrol,Good,Good,Good,Good,Ok
+ A3,Manual,Diesel,Good,Ok,Best,Best,Good
+ Q7,Semi-Auto,Diesel,Good,Best,Best,Ok,Best
+ A6,Automatic,Diesel,Good,Good,Good,Good,Best
+ Q7,Semi-Auto,Diesel,Good,Best,Ok,Ok,Best
+ Q2,Manual,Diesel,Good,Good,Ok,Good,Ok
+ A5,Manual,Diesel,Ok,Good,Good,Best,Good
+ A3,Semi-Auto,Petrol,Ok,Ok,Best,Best,Ok
+ A1,Manual,Petrol,Good,Ok,Good,Good,Ok
+ A4,Manual,Petrol,Good,Good,Ok,Ok,Good
+ A3,Automatic,Petrol,Good,Good,Good,Ok,Ok
+ A3,Manual,Diesel,Good,Ok,Good,Best,Ok
+ A5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Automatic,Petrol,Good,Good,Good,Good,Ok
+ Q2,Manual,Petrol,Good,Good,Good,Good,Ok
+ A7,Automatic,Diesel,Ok,Good,Best,Ok,Best
+ Q3,Manual,Petrol,Ok,Good,Best,Good,Ok
+ Q3,Semi-Auto,Diesel,Ok,Good,Best,Good,Good
+ A5,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A1,Automatic,Petrol,Ok,Ok,Best,Best,Ok
+ A6,Semi-Auto,Diesel,Ok,Good,Good,Best,Good
+ R8,Automatic,Petrol,Good,Best,Good,Ok,Best
+ A5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ Q3,Semi-Auto,Diesel,Ok,Good,Good,Good,Good
+ A4,Manual,Petrol,Good,Ok,Good,Good,Ok
+ Q2,Automatic,Diesel,Good,Best,Ok,Good,Ok
+ Q3,Manual,Diesel,Ok,Good,Best,Good,Good
+ A3,Semi-Auto,Diesel,Good,Good,Ok,Good,Ok
+ A3,Semi-Auto,Petrol,Good,Best,Good,Ok,Good
+ A3,Manual,Diesel,Good,Good,Good,Best,Good
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Ok
+ A4,Semi-Auto,Petrol,Good,Ok,Good,Good,Good
+ A4,Manual,Diesel,Ok,Ok,Good,Best,Good
+ Q3,Automatic,Petrol,Good,Best,Good,Ok,Good
+ A3,Manual,Diesel,Good,Good,Ok,Good,Good
+ A3,Manual,Diesel,Good,Ok,Best,Best,Ok
+ A3,Semi-Auto,Petrol,Best,Best,Ok,Ok,Good
+ A6,Automatic,Diesel,Good,Best,Good,Good,Good
+ Q7,Automatic,Diesel,Ok,Best,Best,Good,Best
+ A5,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Diesel,Good,Ok,Best,Best,Ok
+ Q5,Automatic,Petrol,Good,Best,Ok,Ok,Best
+ A3,Automatic,Diesel,Good,Good,Ok,Good,Ok
+ A1,Semi-Auto,Petrol,Good,Good,Ok,Ok,Ok
+ A5,Semi-Auto,Diesel,Best,Best,Ok,Good,Good
+ Q7,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A3,Manual,Diesel,Best,Good,Ok,Good,Ok
+ A6,Automatic,Diesel,Ok,Ok,Best,Best,Good
+ A5,Semi-Auto,Petrol,Good,Best,Ok,Ok,Good
+ A3,Manual,Diesel,Good,Ok,Best,Best,Ok
+ A3,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A1,Manual,Petrol,Good,Ok,Good,Best,Ok
+ A8,Automatic,Diesel,Good,Best,Ok,Ok,Best
+ A3,Semi-Auto,Petrol,Good,Best,Good,Ok,Good
+ A3,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A6,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A4,Manual,Diesel,Ok,Ok,Good,Best,Good
+ A1,Automatic,Petrol,Ok,Ok,Best,Best,Ok
+ A5,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A3,Automatic,Petrol,Good,Good,Ok,Ok,Ok
+ TT,Manual,Diesel,Good,Good,Good,Best,Good
+ A8,Semi-Auto,Diesel,Good,Best,Good,Good,Best
+ A3,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A1,Manual,Petrol,Ok,Ok,Good,Best,Ok
+ A7,Semi-Auto,Diesel,Good,Best,Ok,Good,Good
+ Q7,Semi-Auto,Diesel,Good,Best,Good,Good,Best
+ A1,Manual,Petrol,Ok,Ok,Best,Good,Ok
+ A4,Manual,Diesel,Ok,Ok,Best,Best,Good
+ A4,Semi-Auto,Diesel,Good,Best,Best,Best,Good
+ Q2,Semi-Auto,Petrol,Good,Good,Good,Good,Ok
+ A5,Automatic,Petrol,Good,Good,Good,Ok,Good
+ Q2,Automatic,Petrol,Good,Best,Ok,Ok,Good
+ A4,Semi-Auto,Diesel,Ok,Ok,Best,Best,Good
+ A5,Automatic,Diesel,Good,Best,Ok,Good,Good
+ A4,Manual,Diesel,Good,Good,Good,Best,Good
+ A3,Automatic,Diesel,Ok,Ok,Best,Best,Ok
+ A3,Manual,Petrol,Ok,Ok,Best,Ok,Ok

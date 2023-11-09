@@ -59,6 +59,7 @@ def upload_file():
 def binning(filename):
     print(filename)
     df = pd.read_csv(filename)
+    df = df.sample(1000)
 
     labels = ['Ok', 'Good', 'Best']
     for column in df.columns:
@@ -83,6 +84,8 @@ def binning(filename):
 def quantization(filename):
     fields = []
     df = pd.read_csv(filename)
+    df = df.sample(1000)
+
     # Loop through the columns and check their data type
     for column in df.columns:
         if df[column].dtype == 'object':
@@ -114,6 +117,7 @@ def quantization(filename):
 
 
     print(df)
+
     # print(mca.column_coordinates(df))
     df.to_csv('static/test_continuous_data.csv', index=False)
 

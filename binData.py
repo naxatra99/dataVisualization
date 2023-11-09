@@ -17,6 +17,8 @@ df['Overall_Category'] = pd.qcut(df['Overall'], 3, labels=labels)
 
 print(df)
 
+df.sample(1000)
+
 df.to_csv('static/all_coffee_categorical_data.csv', index=False)
 
 # Aroma
