@@ -2,6 +2,21 @@
 // https://stackoverflow.com/questions/13227136/d3js-parallel-coordinates-categorical-data
 // http://jsfiddle.net/yFXqj/
 
+// Select the container
+const container = d3.select("#paraCoord");
+
+// // Calculate the width and height based on the container's size
+// const containerWidth = container.node().getBoundingClientRect().width;
+// const containerHeight = container.node().getBoundingClientRect().height;
+// // const containerHeight = containerWidth * 0.17; // Adjust the aspect ratio as needed
+// console.log("container width:" + containerWidth)
+// console.log("container height:" + containerHeight)
+
+
+// var m = { top:30, right: 10, bottom: 10, left: 10 },
+// w = containerWidth - m.left - m.right,
+// h = containerHeight - m.top - m.bottom;
+
 // Define margins and dimensions
 var m = [30, 10, 10, 10];
 var w = 1600 - m[1] - m[3];

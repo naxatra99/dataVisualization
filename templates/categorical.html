@@ -36,8 +36,20 @@
     <select id="dimensionSelect" multiple></select>
     <br>
     <button id="drawGraphButton">Draw Graph</button>
-    <div id="paraSet">
-        <!-- Space for paraSet graph -->
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div id="paraSet">
+                    <!-- Space for paraSet graph -->
+                </div>
+            </div>
+            <div class="col">
+                <h3>LABEL:</h3>
+                <p>High: </p>
+                <p>Medium: </p>
+                <p>Low: </p>
+            </div>
+        </div>
     </div>
     <script type="text/javascript"
     src="{{ url_for('static', filename='parsetsBinned.js') }}">

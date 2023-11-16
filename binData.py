@@ -6,7 +6,7 @@ import numpy as np
 df = pd.read_csv()
 
 
-labels = ['Ok', 'Good', 'Best']
+labels = ['Low', 'Medium', 'High']
 
 df['Aroma_Category'] = pd.qcut(df['Aroma'], 3, labels=labels)
 df['Flavor_Category'] = pd.qcut(df['Flavor'], 3, labels=labels)

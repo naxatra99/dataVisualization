@@ -61,7 +61,7 @@ def binning(filename):
     df = pd.read_csv(filename)
     df = df.sample(1000)
 
-    labels = ['Ok', 'Good', 'Best']
+    labels = ['Low', 'Medium', 'High']
     for column in df.columns:
         if pd.api.types.is_numeric_dtype(df[column]):
             try:
