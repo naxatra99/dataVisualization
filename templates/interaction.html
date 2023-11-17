@@ -119,6 +119,47 @@
                     <!-- space for the second graph -->
                 </div>
             </div>
+            <div class="col">
+                <h3>LABELS</h3>
+                <table class="table">
+                    <thead>
+                      <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Year binned</th>
+                        <th scope="col">Price binned</th>
+                        <th scope="col">Mileage binned</th>
+                        <th scope="col">Mpg binned</th>
+                        <th scope="col">Engine size binned</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <th scope="row">Low</th>
+                        <td>[2003, 2016)</td>
+                        <td>[2990,  17490)</td>
+                        <td>[9, 8413)</td>
+                        <td>[21.6, 44.1)</td>
+                        <td>[0. , 1.6)</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Medium</th>
+                        <td>[2016, 2019)</td>
+                        <td>[17490, 24990)</td>
+                        <td>[8413, 30146)</td>
+                        <td>[44.1, 54.3)</td>
+                        <td>[1.6, 2)</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">High</th>
+                        <td>[2019, 2020)</td>
+                        <td>[24990, 112990)</td>
+                        <td>[30146, 139989)</td>
+                        <td>[54.3, 188.3)</td>
+                        <td>[2, 5.2)</td>
+                      </tr> 
+                    </tbody>
+                  </table>
+            </div>
         </div>
     </div>
     <script type="text/javascript" src="{{ url_for('static', filename='interaction.js') }}">

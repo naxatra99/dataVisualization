@@ -1,0 +1,14 @@
+Name: year, Length: 1000, dtype: category
+Categories (3, object): ['Low' < 'Medium' < 'High'], array([2005., 2016., 2019., 2020.]))
+
+Name: price, Length: 1000, dtype: category
+Categories (3, object): ['Low' < 'Medium' < 'High'], array([  2990.,  17490.,  24990., 112990.]))
+
+mileage, Length: 1000, dtype: category
+Categories (3, object): ['Low' < 'Medium' < 'High'], array([9.00000e+00, 8.41300e+03, 3.01460e+04, 1.39989e+05]))
+
+Name: mpg, Length: 1000, dtype: category
+Categories (3, object): ['Low' < 'Medium' < 'High'], array([ 21.6,  44.1,  54.3, 188.3]))
+
+Name: engineSize, Length: 1000, dtype: category
+Categories (3, object): ['Low' < 'Medium' < 'High'], array([0. , 1.6, 2. , 5.2]))
