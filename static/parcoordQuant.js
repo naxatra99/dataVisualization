@@ -3,7 +3,6 @@
 // http://jsfiddle.net/yFXqj/
 
 // Select the container
-const container = d3.select("#paraCoord");
 
 // // Calculate the width and height based on the container's size
 // const containerWidth = container.node().getBoundingClientRect().width;
@@ -20,7 +19,8 @@ const container = d3.select("#paraCoord");
 // Define margins and dimensions
 var m = [30, 10, 10, 10];
 var w = 1600 - m[1] - m[3];
-var h = 900 - m[0] - m[2];
+var h = 650 - m[0] - m[2];
+
 
 var x = d3.scale.ordinal().rangePoints([0, w], 1);
 var y = {};

@@ -123,7 +123,7 @@ def quantization(filename):
 
 
 
-
+app.run(debug=True)
 
 
 
