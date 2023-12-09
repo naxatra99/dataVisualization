@@ -27,6 +27,7 @@ def allDataAsContinuousData():
 def interaction():
     return render_template("interaction.html")
 
+<<<<<<< Updated upstream
 @app.route('/upload', methods=['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
@@ -127,3 +128,6 @@ app.run(debug=True)
 
 
 
+=======
+app.run(debug=True)
+>>>>>>> Stashed changes
